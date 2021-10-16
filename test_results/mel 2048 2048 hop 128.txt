@@ -1,0 +1,3575 @@
+C:\Users\jamie\Anaconda3\python.exe "C:/Users/jamie/Documents/QMUL/Semester B/Music Informatics/Coursework_2/query.py"
+=============================================================
+Analyzing classical.00000-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00016.wav', 3]
+                          [2, 'classical.00009.wav', 2]
+                          [3, 'classical.00018.wav', 2]
+                          [4, 'classical.00017.wav', 2]
+                          [5, 'classical.00016.wav', 2]
+                          [6, 'classical.00015.wav', 2]
+                          [7, 'classical.00011.wav', 2]
+                          [8, 'classical.00010.wav', 2]
+                          [9, 'classical.00002.wav', 2]
+                          [10, 'pop.00099.wav', 2]
+I predicted that the query is: pop.00016.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 0.0 % 
+=============================================================
+Analyzing classical.00000-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00000.wav', 18] **
+                          [2, 'classical.00035.wav', 6]
+                          [3, 'classical.00046.wav', 5]
+                          [4, 'classical.00042.wav', 5]
+                          [5, 'classical.00014.wav', 5]
+                          [6, 'classical.00029.wav', 5]
+                          [7, 'classical.00004.wav', 5]
+                          [8, 'classical.00024.wav', 5]
+                          [9, 'classical.00002.wav', 5]
+                          [10, 'pop.00082.wav', 5]
+I predicted that the query is: classical.00000.wav and I was correct :D
+Current performance overall: 50.0 % 
+Classical % Correct: 50.0 %
+=============================================================
+Analyzing classical.00000-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00000.wav', 12] **
+                          [2, 'pop.00071.wav', 5]
+                          [3, 'pop.00067.wav', 5]
+                          [4, 'pop.00022.wav', 5]
+                          [5, 'pop.00015.wav', 5]
+                          [6, 'classical.00002.wav', 5]
+                          [7, 'classical.00042.wav', 5]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: classical.00000.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00003-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00003.wav', 6] **
+                          [2, 'classical.00058.wav', 5]
+                          [3, 'classical.00027.wav', 5]
+                          [4, 'pop.00085.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00086.wav', 5]
+                          [7, 'classical.00024.wav', 4]
+                          [8, 'classical.00010.wav', 4]
+                          [9, 'classical.00014.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00003.wav and I was correct :D
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00003-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00055.wav', 3]
+                          [2, 'classical.00022.wav', 2]
+                          [3, 'classical.00021.wav', 2]
+                          [4, 'classical.00007.wav', 2]
+                          [5, 'classical.00020.wav', 2]
+                          [6, 'classical.00019.wav', 2]
+                          [7, 'classical.00017.wav', 2]
+                       ** [8, 'classical.00003.wav', 2] **
+                          [9, 'classical.00002.wav', 2]
+                          [10, 'pop.00099.wav', 2]
+I predicted that the query is: pop.00055.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 60.0 % 
+Classical % Correct: 60.0 %
+=============================================================
+Analyzing classical.00003-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00026.wav', 4]
+                          [2, 'classical.00013.wav', 4]
+                          [3, 'classical.00094.wav', 4]
+                          [4, 'classical.00053.wav', 4]
+                          [5, 'classical.00029.wav', 4]
+                          [6, 'classical.00001.wav', 4]
+                          [7, 'classical.00009.wav', 3]
+                          [8, 'classical.00008.wav', 3]
+                          [9, 'classical.00014.wav', 3]
+                          [10, 'pop.00093.wav', 3]
+I predicted that the query is: classical.00026.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 50.0 % 
+Classical % Correct: 50.0 %
+=============================================================
+Analyzing classical.00004-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00004.wav', 20] **
+                          [2, 'classical.00093.wav', 5]
+                          [3, 'classical.00002.wav', 5]
+                          [4, 'classical.00096.wav', 5]
+                          [5, 'classical.00029.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00028.wav', 4]
+                          [8, 'classical.00017.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00004.wav and I was correct :D
+Current performance overall: 57.14285714285714 % 
+Classical % Correct: 57.14285714285714 %
+=============================================================
+Analyzing classical.00004-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00004.wav', 26] **
+                          [2, 'classical.00054.wav', 5]
+                          [3, 'classical.00020.wav', 5]
+                          [4, 'classical.00012.wav', 5]
+                          [5, 'classical.00099.wav', 5]
+                          [6, 'classical.00089.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00019.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: classical.00004.wav and I was correct :D
+Current performance overall: 62.5 % 
+Classical % Correct: 62.5 %
+=============================================================
+Analyzing classical.00005-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00005.wav', 7] **
+                          [2, 'classical.00023.wav', 4]
+                          [3, 'classical.00085.wav', 4]
+                          [4, 'classical.00038.wav', 4]
+                          [5, 'classical.00022.wav', 3]
+                          [6, 'classical.00008.wav', 3]
+                          [7, 'classical.00020.wav', 3]
+                          [8, 'classical.00006.wav', 3]
+                          [9, 'classical.00004.wav', 3]
+                          [10, 'pop.00097.wav', 3]
+I predicted that the query is: classical.00005.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00005-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00005.wav', 8] **
+                          [2, 'classical.00075.wav', 5]
+                          [3, 'classical.00006.wav', 5]
+                          [4, 'classical.00061.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00054.wav', 4]
+                          [7, 'classical.00037.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00016.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00005.wav and I was correct :D
+Current performance overall: 70.0 % 
+Classical % Correct: 70.0 %
+=============================================================
+Analyzing classical.00005-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00005.wav', 27] **
+                          [2, 'classical.00049.wav', 5]
+                          [3, 'classical.00071.wav', 5]
+                          [4, 'classical.00024.wav', 5]
+                          [5, 'classical.00054.wav', 5]
+                          [6, 'classical.00009.wav', 4]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00026.wav', 4]
+                          [9, 'classical.00006.wav', 4]
+                          [10, 'pop.00092.wav', 4]
+I predicted that the query is: classical.00005.wav and I was correct :D
+Current performance overall: 72.72727272727273 % 
+Classical % Correct: 72.72727272727273 %
+=============================================================
+Analyzing classical.00009-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00068.wav', 5]
+                          [2, 'classical.00040.wav', 4]
+                          [3, 'classical.00036.wav', 4]
+                          [4, 'classical.00030.wav', 4]
+                          [5, 'classical.00006.wav', 4]
+                          [6, 'classical.00005.wav', 4]
+                          [7, 'classical.00029.wav', 4]
+                          [8, 'classical.00027.wav', 4]
+                          [9, 'classical.00026.wav', 4]
+                          [10, 'pop.00092.wav', 4]
+I predicted that the query is: classical.00068.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00009-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00095.wav', 4]
+                          [2, 'classical.00049.wav', 4]
+                          [3, 'classical.00046.wav', 4]
+                          [4, 'classical.00041.wav', 4]
+                          [5, 'classical.00006.wav', 4]
+                          [6, 'classical.00005.wav', 4]
+                          [7, 'classical.00028.wav', 4]
+                          [8, 'classical.00022.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'classical.00013.wav', 4]
+I predicted that the query is: pop.00095.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 61.53846153846154 % 
+Classical % Correct: 61.53846153846154 %
+=============================================================
+Analyzing classical.00009-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00073.wav', 6]
+                          [2, 'classical.00099.wav', 5]
+                          [3, 'classical.00028.wav', 5]
+                          [4, 'pop.00007.wav', 5]
+                       ** [5, 'classical.00009.wav', 4] **
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00040.wav', 4]
+                          [8, 'classical.00035.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: pop.00073.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 57.14285714285714 % 
+Classical % Correct: 57.14285714285714 %
+=============================================================
+Analyzing classical.00010-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00010.wav', 9] **
+                          [2, 'pop.00081.wav', 5]
+                          [3, 'pop.00011.wav', 5]
+                          [4, 'classical.00005.wav', 5]
+                          [5, 'classical.00022.wav', 5]
+                          [6, 'pop.00000.wav', 5]
+                          [7, 'classical.00093.wav', 5]
+                          [8, 'classical.00046.wav', 5]
+                          [9, 'classical.00042.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00010.wav and I was correct :D
+Current performance overall: 60.0 % 
+Classical % Correct: 60.0 %
+=============================================================
+Analyzing classical.00010-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00010.wav', 12] **
+                          [2, 'classical.00027.wav', 5]
+                          [3, 'pop.00036.wav', 5]
+                          [4, 'pop.00029.wav', 5]
+                          [5, 'classical.00071.wav', 5]
+                          [6, 'classical.00009.wav', 4]
+                          [7, 'classical.00058.wav', 4]
+                          [8, 'classical.00048.wav', 4]
+                          [9, 'classical.00044.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00010.wav and I was correct :D
+Current performance overall: 62.5 % 
+Classical % Correct: 62.5 %
+=============================================================
+Analyzing classical.00010-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00010.wav', 34] **
+                          [2, 'pop.00066.wav', 5]
+                          [3, 'classical.00004.wav', 5]
+                          [4, 'classical.00009.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00007.wav', 4]
+                          [7, 'classical.00043.wav', 4]
+                          [8, 'classical.00005.wav', 4]
+                          [9, 'classical.00042.wav', 4]
+                          [10, 'pop.00097.wav', 4]
+I predicted that the query is: classical.00010.wav and I was correct :D
+Current performance overall: 64.70588235294117 % 
+Classical % Correct: 64.70588235294117 %
+=============================================================
+Analyzing classical.00011-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00011.wav', 13] **
+                          [2, 'classical.00024.wav', 5]
+                          [3, 'pop.00020.wav', 5]
+                          [4, 'classical.00096.wav', 5]
+                          [5, 'classical.00070.wav', 5]
+                          [6, 'classical.00056.wav', 5]
+                          [7, 'classical.00046.wav', 5]
+                          [8, 'classical.00003.wav', 5]
+                          [9, 'classical.00027.wav', 5]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: classical.00011.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00011-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00011.wav', 10] **
+                          [2, 'classical.00014.wav', 6]
+                          [3, 'classical.00061.wav', 6]
+                          [4, 'classical.00056.wav', 6]
+                          [5, 'classical.00049.wav', 5]
+                          [6, 'classical.00042.wav', 5]
+                          [7, 'classical.00030.wav', 5]
+                          [8, 'classical.00028.wav', 5]
+                          [9, 'classical.00027.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: classical.00011.wav and I was correct :D
+Current performance overall: 68.42105263157895 % 
+Classical % Correct: 68.42105263157895 %
+=============================================================
+Analyzing classical.00012-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00012.wav', 22] **
+                          [2, 'classical.00094.wav', 7]
+                          [3, 'classical.00068.wav', 6]
+                          [4, 'classical.00056.wav', 6]
+                          [5, 'classical.00017.wav', 6]
+                          [6, 'classical.00049.wav', 6]
+                          [7, 'classical.00046.wav', 6]
+                          [8, 'classical.00029.wav', 6]
+                          [9, 'classical.00028.wav', 6]
+                          [10, 'classical.00013.wav', 6]
+I predicted that the query is: classical.00012.wav and I was correct :D
+Current performance overall: 70.0 % 
+Classical % Correct: 70.0 %
+=============================================================
+Analyzing classical.00012-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00012.wav', 23] **
+                          [2, 'classical.00068.wav', 6]
+                          [3, 'classical.00069.wav', 6]
+                          [4, 'classical.00014.wav', 5]
+                          [5, 'classical.00061.wav', 5]
+                          [6, 'classical.00049.wav', 5]
+                          [7, 'classical.00044.wav', 5]
+                          [8, 'classical.00029.wav', 5]
+                          [9, 'classical.00028.wav', 5]
+                          [10, 'pop.00002.wav', 5]
+I predicted that the query is: classical.00012.wav and I was correct :D
+Current performance overall: 71.42857142857143 % 
+Classical % Correct: 71.42857142857143 %
+=============================================================
+Analyzing classical.00012-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00012.wav', 13] **
+                          [2, 'classical.00082.wav', 5]
+                          [3, 'pop.00098.wav', 5]
+                          [4, 'classical.00097.wav', 5]
+                          [5, 'classical.00083.wav', 5]
+                          [6, 'classical.00016.wav', 4]
+                          [7, 'classical.00015.wav', 4]
+                          [8, 'classical.00014.wav', 4]
+                          [9, 'classical.00006.wav', 4]
+                          [10, 'classical.00013.wav', 4]
+I predicted that the query is: classical.00012.wav and I was correct :D
+Current performance overall: 72.72727272727273 % 
+Classical % Correct: 72.72727272727273 %
+=============================================================
+Analyzing classical.00013-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00013.wav', 22] **
+                          [2, 'classical.00056.wav', 8]
+                          [3, 'classical.00015.wav', 7]
+                          [4, 'classical.00014.wav', 7]
+                          [5, 'pop.00090.wav', 6]
+                          [6, 'classical.00053.wav', 6]
+                          [7, 'classical.00046.wav', 6]
+                          [8, 'classical.00030.wav', 6]
+                          [9, 'classical.00028.wav', 6]
+                          [10, 'classical.00001.wav', 6]
+I predicted that the query is: classical.00013.wav and I was correct :D
+Current performance overall: 73.91304347826086 % 
+Classical % Correct: 73.91304347826086 %
+=============================================================
+Analyzing classical.00013-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00013.wav', 11] **
+                          [2, 'pop.00098.wav', 5]
+                          [3, 'classical.00009.wav', 5]
+                          [4, 'pop.00085.wav', 5]
+                          [5, 'pop.00000.wav', 5]
+                          [6, 'classical.00097.wav', 5]
+                          [7, 'classical.00068.wav', 5]
+                          [8, 'classical.00003.wav', 5]
+                          [9, 'classical.00057.wav', 5]
+                          [10, 'classical.00042.wav', 5]
+I predicted that the query is: classical.00013.wav and I was correct :D
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00013-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00013.wav', 17] **
+                          [2, 'classical.00029.wav', 5]
+                          [3, 'pop.00053.wav', 5]
+                          [4, 'classical.00075.wav', 5]
+                          [5, 'classical.00069.wav', 5]
+                          [6, 'classical.00003.wav', 5]
+                          [7, 'classical.00058.wav', 5]
+                          [8, 'classical.00049.wav', 5]
+                          [9, 'classical.00014.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00013.wav and I was correct :D
+Current performance overall: 76.0 % 
+Classical % Correct: 76.0 %
+=============================================================
+Analyzing classical.00014-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00014.wav', 7] **
+                          [2, 'classical.00058.wav', 5]
+                          [3, 'classical.00026.wav', 5]
+                          [4, 'classical.00085.wav', 5]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00029.wav', 4]
+                          [7, 'classical.00028.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00023.wav', 4]
+                          [10, 'pop.00086.wav', 4]
+I predicted that the query is: classical.00014.wav and I was correct :D
+Current performance overall: 76.92307692307693 % 
+Classical % Correct: 76.92307692307693 %
+=============================================================
+Analyzing classical.00014-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00056.wav', 5]
+                       ** [2, 'classical.00014.wav', 5] **
+                          [3, 'pop.00095.wav', 5]
+                          [4, 'classical.00096.wav', 5]
+                          [5, 'classical.00025.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00015.wav', 4]
+                          [8, 'classical.00013.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'classical.00003.wav', 4]
+I predicted that the query is: classical.00056.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 74.07407407407408 % 
+Classical % Correct: 74.07407407407408 %
+=============================================================
+Analyzing classical.00014-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00014.wav', 6] **
+                          [2, 'classical.00027.wav', 5]
+                          [3, 'pop.00056.wav', 5]
+                          [4, 'pop.00033.wav', 5]
+                          [5, 'pop.00027.wav', 5]
+                          [6, 'pop.00023.wav', 5]
+                          [7, 'pop.00014.wav', 5]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00017.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00014.wav and I was correct :D
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00015-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00015.wav', 9] **
+                          [2, 'classical.00009.wav', 6]
+                          [3, 'pop.00095.wav', 5]
+                          [4, 'classical.00099.wav', 5]
+                          [5, 'classical.00013.wav', 5]
+                          [6, 'classical.00096.wav', 5]
+                          [7, 'classical.00061.wav', 5]
+                          [8, 'classical.00058.wav', 5]
+                          [9, 'classical.00056.wav', 5]
+                          [10, 'classical.00001.wav', 5]
+I predicted that the query is: classical.00015.wav and I was correct :D
+Current performance overall: 75.86206896551724 % 
+Classical % Correct: 75.86206896551724 %
+=============================================================
+Analyzing classical.00015-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00015.wav', 11] **
+                          [2, 'classical.00027.wav', 5]
+                          [3, 'pop.00086.wav', 5]
+                          [4, 'classical.00058.wav', 4]
+                          [5, 'classical.00056.wav', 4]
+                          [6, 'classical.00048.wav', 4]
+                          [7, 'classical.00042.wav', 4]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00003.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00015.wav and I was correct :D
+Current performance overall: 76.66666666666667 % 
+Classical % Correct: 76.66666666666667 %
+=============================================================
+Analyzing classical.00015-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00015.wav', 8] **
+                          [2, 'classical.00069.wav', 5]
+                          [3, 'classical.00076.wav', 5]
+                          [4, 'classical.00009.wav', 4]
+                          [5, 'classical.00048.wav', 4]
+                          [6, 'classical.00007.wav', 4]
+                          [7, 'classical.00044.wav', 4]
+                          [8, 'classical.00043.wav', 4]
+                          [9, 'classical.00029.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: classical.00015.wav and I was correct :D
+Current performance overall: 77.41935483870968 % 
+Classical % Correct: 77.41935483870968 %
+=============================================================
+Analyzing classical.00019-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00076.wav', 6]
+                          [2, 'classical.00049.wav', 5]
+                          [3, 'classical.00069.wav', 5]
+                          [4, 'classical.00012.wav', 5]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00041.wav', 4]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00026.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: pop.00076.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00019-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00059.wav', 5]
+                          [2, 'classical.00005.wav', 5]
+                          [3, 'pop.00019.wav', 5]
+                          [4, 'classical.00084.wav', 5]
+                          [5, 'classical.00073.wav', 5]
+                          [6, 'classical.00021.wav', 4]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00018.wav', 4]
+                          [9, 'classical.00006.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: classical.00059.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 72.72727272727273 % 
+Classical % Correct: 72.72727272727273 %
+=============================================================
+Analyzing classical.00019-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00092.wav', 5]
+                          [2, 'classical.00048.wav', 4]
+                          [3, 'classical.00047.wav', 4]
+                          [4, 'classical.00046.wav', 4]
+                          [5, 'classical.00028.wav', 4]
+                          [6, 'classical.00024.wav', 4]
+                          [7, 'classical.00004.wav', 4]
+                          [8, 'classical.00021.wav', 4]
+                          [9, 'classical.00002.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00092.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 70.58823529411765 % 
+Classical % Correct: 70.58823529411765 %
+=============================================================
+Analyzing classical.00020-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00002.wav', 5]
+                          [2, 'pop.00037.wav', 5]
+                          [3, 'pop.00026.wav', 5]
+                          [4, 'pop.00003.wav', 5]
+                          [5, 'classical.00014.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00007.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00005.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00002.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 68.57142857142857 % 
+Classical % Correct: 68.57142857142857 %
+=============================================================
+Analyzing classical.00020-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00020.wav', 18] **
+                          [2, 'classical.00050.wav', 6]
+                          [3, 'classical.00036.wav', 6]
+                          [4, 'classical.00019.wav', 5]
+                          [5, 'pop.00094.wav', 5]
+                          [6, 'pop.00040.wav', 5]
+                          [7, 'classical.00094.wav', 5]
+                          [8, 'classical.00074.wav', 5]
+                          [9, 'classical.00054.wav', 5]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00020.wav and I was correct :D
+Current performance overall: 69.44444444444444 % 
+Classical % Correct: 69.44444444444444 %
+=============================================================
+Analyzing classical.00020-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00020.wav', 17] **
+                          [2, 'pop.00098.wav', 5]
+                          [3, 'pop.00021.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'classical.00086.wav', 5]
+                          [6, 'classical.00076.wav', 5]
+                          [7, 'classical.00005.wav', 5]
+                          [8, 'classical.00054.wav', 5]
+                          [9, 'classical.00024.wav', 5]
+                          [10, 'classical.00021.wav', 5]
+I predicted that the query is: classical.00020.wav and I was correct :D
+Current performance overall: 70.27027027027027 % 
+Classical % Correct: 70.27027027027027 %
+=============================================================
+Analyzing classical.00024-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00024.wav', 40] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00058.wav', 6]
+                          [4, 'classical.00026.wav', 5]
+                          [5, 'classical.00025.wav', 5]
+                          [6, 'classical.00007.wav', 5]
+                          [7, 'classical.00014.wav', 5]
+                          [8, 'classical.00013.wav', 5]
+                          [9, 'classical.00003.wav', 5]
+                          [10, 'pop.00095.wav', 5]
+I predicted that the query is: classical.00024.wav and I was correct :D
+Current performance overall: 71.05263157894737 % 
+Classical % Correct: 71.05263157894737 %
+=============================================================
+Analyzing classical.00024-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00024.wav', 36] **
+                          [2, 'pop.00076.wav', 5]
+                          [3, 'classical.00009.wav', 5]
+                          [4, 'classical.00095.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00088.wav', 5]
+                          [7, 'classical.00076.wav', 5]
+                          [8, 'classical.00046.wav', 5]
+                          [9, 'classical.00017.wav', 5]
+                          [10, 'classical.00001.wav', 5]
+I predicted that the query is: classical.00024.wav and I was correct :D
+Current performance overall: 71.7948717948718 % 
+Classical % Correct: 71.7948717948718 %
+=============================================================
+Analyzing classical.00024-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00024.wav', 32] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00053.wav', 6]
+                          [4, 'classical.00049.wav', 6]
+                          [5, 'pop.00066.wav', 5]
+                          [6, 'classical.00008.wav', 5]
+                          [7, 'classical.00007.wav', 5]
+                          [8, 'classical.00050.wav', 5]
+                          [9, 'classical.00043.wav', 5]
+                          [10, 'classical.00028.wav', 5]
+I predicted that the query is: classical.00024.wav and I was correct :D
+Current performance overall: 72.5 % 
+Classical % Correct: 72.5 %
+=============================================================
+Analyzing classical.00025-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00025.wav', 30] **
+                          [2, 'classical.00071.wav', 6]
+                          [3, 'classical.00056.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'classical.00053.wav', 5]
+                          [6, 'classical.00046.wav', 5]
+                          [7, 'classical.00029.wav', 5]
+                          [8, 'classical.00004.wav', 5]
+                          [9, 'classical.00028.wav', 5]
+                          [10, 'pop.00090.wav', 5]
+I predicted that the query is: classical.00025.wav and I was correct :D
+Current performance overall: 73.17073170731707 % 
+Classical % Correct: 73.17073170731707 %
+=============================================================
+Analyzing classical.00025-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00025.wav', 35] **
+                          [2, 'classical.00057.wav', 6]
+                          [3, 'classical.00013.wav', 6]
+                          [4, 'pop.00084.wav', 6]
+                          [5, 'classical.00009.wav', 5]
+                          [6, 'classical.00028.wav', 5]
+                          [7, 'classical.00027.wav', 5]
+                          [8, 'classical.00024.wav', 5]
+                          [9, 'classical.00014.wav', 5]
+                          [10, 'pop.00090.wav', 5]
+I predicted that the query is: classical.00025.wav and I was correct :D
+Current performance overall: 73.80952380952381 % 
+Classical % Correct: 73.80952380952381 %
+=============================================================
+Analyzing classical.00025-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00025.wav', 23] **
+                          [2, 'pop.00019.wav', 5]
+                          [3, 'classical.00076.wav', 5]
+                          [4, 'classical.00073.wav', 5]
+                          [5, 'classical.00072.wav', 5]
+                          [6, 'classical.00061.wav', 5]
+                          [7, 'classical.00047.wav', 5]
+                          [8, 'classical.00002.wav', 5]
+                          [9, 'classical.00001.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00025.wav and I was correct :D
+Current performance overall: 74.4186046511628 % 
+Classical % Correct: 74.4186046511628 %
+=============================================================
+Analyzing classical.00034-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00034.wav', 19] **
+                          [2, 'classical.00020.wav', 5]
+                          [3, 'pop.00016.wav', 5]
+                          [4, 'classical.00090.wav', 5]
+                          [5, 'classical.00082.wav', 5]
+                          [6, 'classical.00070.wav', 5]
+                          [7, 'classical.00037.wav', 5]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00034.wav and I was correct :D
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00034-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00034.wav', 36] **
+                          [2, 'pop.00092.wav', 5]
+                          [3, 'pop.00060.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'pop.00054.wav', 5]
+                          [6, 'classical.00012.wav', 5]
+                          [7, 'classical.00096.wav', 5]
+                          [8, 'classical.00082.wav', 5]
+                          [9, 'classical.00053.wav', 5]
+                          [10, 'classical.00046.wav', 5]
+I predicted that the query is: classical.00034.wav and I was correct :D
+Current performance overall: 75.55555555555556 % 
+Classical % Correct: 75.55555555555556 %
+=============================================================
+Analyzing classical.00034-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00040.wav', 6]
+                       ** [2, 'classical.00034.wav', 6] **
+                          [3, 'pop.00057.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'pop.00035.wav', 5]
+                          [6, 'pop.00024.wav', 5]
+                          [7, 'pop.00005.wav', 5]
+                          [8, 'classical.00085.wav', 5]
+                          [9, 'classical.00058.wav', 5]
+                          [10, 'classical.00029.wav', 5]
+I predicted that the query is: pop.00040.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 73.91304347826086 % 
+Classical % Correct: 73.91304347826086 %
+=============================================================
+Analyzing classical.00035-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00035.wav', 44] **
+                          [2, 'classical.00090.wav', 7]
+                          [3, 'pop.00059.wav', 6]
+                          [4, 'pop.00029.wav', 5]
+                          [5, 'pop.00005.wav', 5]
+                          [6, 'classical.00096.wav', 5]
+                          [7, 'classical.00091.wav', 5]
+                          [8, 'classical.00020.wav', 5]
+                          [9, 'classical.00054.wav', 5]
+                          [10, 'pop.00075.wav', 5]
+I predicted that the query is: classical.00035.wav and I was correct :D
+Current performance overall: 74.46808510638297 % 
+Classical % Correct: 74.46808510638297 %
+=============================================================
+Analyzing classical.00035-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00035.wav', 14] **
+                          [2, 'classical.00030.wav', 5]
+                          [3, 'classical.00099.wav', 5]
+                          [4, 'classical.00096.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00042.wav', 5]
+                          [7, 'classical.00031.wav', 4]
+                          [8, 'classical.00007.wav', 4]
+                          [9, 'classical.00028.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: classical.00035.wav and I was correct :D
+Current performance overall: 75.0 % 
+Classical % Correct: 75.0 %
+=============================================================
+Analyzing classical.00035-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00035.wav', 10] **
+                          [2, 'classical.00012.wav', 5]
+                          [3, 'pop.00027.wav', 5]
+                          [4, 'pop.00002.wav', 5]
+                          [5, 'classical.00092.wav', 5]
+                          [6, 'classical.00090.wav', 5]
+                          [7, 'classical.00061.wav', 5]
+                          [8, 'classical.00037.wav', 5]
+                          [9, 'classical.00017.wav', 5]
+                          [10, 'classical.00014.wav', 5]
+I predicted that the query is: classical.00035.wav and I was correct :D
+Current performance overall: 75.51020408163265 % 
+Classical % Correct: 75.51020408163265 %
+=============================================================
+Analyzing classical.00039-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00076.wav', 6]
+                          [2, 'classical.00048.wav', 5]
+                          [3, 'classical.00009.wav', 5]
+                          [4, 'classical.00025.wav', 5]
+                          [5, 'pop.00039.wav', 5]
+                          [6, 'pop.00026.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'pop.00086.wav', 4]
+I predicted that the query is: classical.00076.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 74.0 % 
+Classical % Correct: 74.0 %
+=============================================================
+Analyzing classical.00039-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00086.wav', 5]
+                          [2, 'classical.00004.wav', 5]
+                          [3, 'classical.00058.wav', 4]
+                          [4, 'classical.00053.wav', 4]
+                          [5, 'classical.00048.wav', 4]
+                          [6, 'classical.00046.wav', 4]
+                          [7, 'classical.00010.wav', 4]
+                          [8, 'classical.00041.wav', 4]
+                          [9, 'classical.00040.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00086.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 72.54901960784314 % 
+Classical % Correct: 72.54901960784314 %
+=============================================================
+Analyzing classical.00039-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00099.wav', 5]
+                          [2, 'classical.00046.wav', 5]
+                          [3, 'pop.00087.wav', 5]
+                          [4, 'pop.00060.wav', 5]
+                          [5, 'pop.00054.wav', 5]
+                          [6, 'pop.00051.wav', 5]
+                          [7, 'pop.00032.wav', 5]
+                          [8, 'pop.00012.wav', 5]
+                          [9, 'classical.00099.wav', 5]
+                          [10, 'classical.00071.wav', 5]
+I predicted that the query is: pop.00099.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 71.15384615384616 % 
+Classical % Correct: 71.15384615384616 %
+=============================================================
+Analyzing classical.00040-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00046.wav', 5]
+                          [2, 'classical.00017.wav', 5]
+                          [3, 'classical.00008.wav', 5]
+                          [4, 'pop.00098.wav', 5]
+                          [5, 'classical.00056.wav', 5]
+                          [6, 'classical.00053.wav', 5]
+                          [7, 'classical.00014.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00012.wav', 4]
+                          [10, 'classical.00004.wav', 4]
+I predicted that the query is: classical.00046.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 69.81132075471697 % 
+Classical % Correct: 69.81132075471697 %
+=============================================================
+Analyzing classical.00040-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00086.wav', 6]
+                          [2, 'classical.00054.wav', 6]
+                          [3, 'classical.00046.wav', 5]
+                          [4, 'pop.00057.wav', 5]
+                          [5, 'pop.00047.wav', 5]
+                          [6, 'pop.00036.wav', 5]
+                          [7, 'pop.00018.wav', 5]
+                          [8, 'classical.00096.wav', 5]
+                          [9, 'classical.00074.wav', 5]
+                          [10, 'classical.00069.wav', 5]
+I predicted that the query is: pop.00086.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 68.51851851851852 % 
+Classical % Correct: 68.51851851851852 %
+=============================================================
+Analyzing classical.00044-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00068.wav', 5]
+                          [2, 'classical.00026.wav', 5]
+                          [3, 'pop.00068.wav', 5]
+                          [4, 'pop.00019.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00085.wav', 5]
+                          [7, 'classical.00078.wav', 5]
+                          [8, 'classical.00014.wav', 5]
+                          [9, 'classical.00009.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: classical.00068.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 67.27272727272727 % 
+Classical % Correct: 67.27272727272727 %
+=============================================================
+Analyzing classical.00044-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00044.wav', 7] **
+                          [2, 'classical.00023.wav', 5]
+                          [3, 'pop.00043.wav', 5]
+                          [4, 'classical.00021.wav', 5]
+                          [5, 'pop.00041.wav', 5]
+                          [6, 'pop.00035.wav', 5]
+                          [7, 'classical.00019.wav', 5]
+                          [8, 'classical.00090.wav', 5]
+                          [9, 'classical.00088.wav', 5]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00044.wav and I was correct :D
+Current performance overall: 67.85714285714286 % 
+Classical % Correct: 67.85714285714286 %
+=============================================================
+Analyzing classical.00044-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00008.wav', 5]
+                          [2, 'pop.00059.wav', 5]
+                          [3, 'pop.00039.wav', 5]
+                          [4, 'classical.00009.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00007.wav', 4]
+                          [7, 'classical.00025.wav', 4]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00008.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00045-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00042.wav', 5]
+                          [2, 'classical.00003.wav', 5]
+                          [3, 'classical.00093.wav', 5]
+                       ** [4, 'classical.00045.wav', 5] **
+                          [5, 'classical.00021.wav', 4]
+                          [6, 'classical.00015.wav', 4]
+                          [7, 'classical.00014.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00013.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00042.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 65.51724137931035 % 
+Classical % Correct: 65.51724137931035 %
+=============================================================
+Analyzing classical.00045-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00045.wav', 6] **
+                          [2, 'classical.00000.wav', 5]
+                          [3, 'classical.00009.wav', 4]
+                          [4, 'classical.00024.wav', 4]
+                          [5, 'classical.00022.wav', 4]
+                          [6, 'classical.00006.wav', 4]
+                          [7, 'classical.00005.wav', 4]
+                          [8, 'classical.00004.wav', 4]
+                          [9, 'classical.00003.wav', 4]
+                          [10, 'pop.00090.wav', 4]
+I predicted that the query is: classical.00045.wav and I was correct :D
+Current performance overall: 66.10169491525424 % 
+Classical % Correct: 66.10169491525424 %
+=============================================================
+Analyzing classical.00045-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00045.wav', 6] **
+                          [2, 'classical.00042.wav', 5]
+                          [3, 'classical.00014.wav', 5]
+                          [4, 'classical.00004.wav', 5]
+                          [5, 'classical.00096.wav', 5]
+                          [6, 'classical.00087.wav', 5]
+                          [7, 'classical.00009.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00019.wav', 4]
+                          [10, 'pop.00087.wav', 4]
+I predicted that the query is: classical.00045.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00049-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00049.wav', 64] **
+                          [2, 'classical.00068.wav', 9]
+                          [3, 'classical.00069.wav', 7]
+                          [4, 'classical.00099.wav', 6]
+                          [5, 'classical.00094.wav', 6]
+                          [6, 'classical.00087.wav', 6]
+                          [7, 'classical.00050.wav', 6]
+                          [8, 'classical.00014.wav', 5]
+                          [9, 'classical.00022.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: classical.00049.wav and I was correct :D
+Current performance overall: 67.21311475409836 % 
+Classical % Correct: 67.21311475409836 %
+=============================================================
+Analyzing classical.00049-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00049.wav', 62] **
+                          [2, 'classical.00050.wav', 7]
+                          [3, 'pop.00098.wav', 6]
+                          [4, 'classical.00069.wav', 6]
+                          [5, 'classical.00061.wav', 6]
+                          [6, 'classical.00013.wav', 6]
+                          [7, 'classical.00056.wav', 6]
+                          [8, 'classical.00012.wav', 6]
+                          [9, 'classical.00028.wav', 6]
+                          [10, 'classical.00026.wav', 6]
+I predicted that the query is: classical.00049.wav and I was correct :D
+Current performance overall: 67.74193548387096 % 
+Classical % Correct: 67.74193548387096 %
+=============================================================
+Analyzing classical.00049-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00049.wav', 49] **
+                          [2, 'classical.00058.wav', 6]
+                          [3, 'classical.00053.wav', 6]
+                          [4, 'classical.00028.wav', 6]
+                          [5, 'classical.00026.wav', 6]
+                          [6, 'classical.00095.wav', 6]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00050.wav', 5]
+                          [9, 'classical.00047.wav', 5]
+                          [10, 'pop.00095.wav', 5]
+I predicted that the query is: classical.00049.wav and I was correct :D
+Current performance overall: 68.25396825396825 % 
+Classical % Correct: 68.25396825396825 %
+=============================================================
+Analyzing classical.00050-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00099.wav', 6]
+                          [2, 'classical.00068.wav', 5]
+                          [3, 'pop.00058.wav', 5]
+                          [4, 'pop.00047.wav', 5]
+                          [5, 'classical.00096.wav', 5]
+                          [6, 'classical.00071.wav', 5]
+                          [7, 'classical.00038.wav', 4]
+                          [8, 'classical.00036.wav', 4]
+                          [9, 'classical.00030.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00099.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 67.1875 % 
+Classical % Correct: 67.1875 %
+=============================================================
+Analyzing classical.00050-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00050.wav', 15] **
+                          [2, 'pop.00018.wav', 6]
+                          [3, 'classical.00022.wav', 5]
+                          [4, 'pop.00008.wav', 5]
+                          [5, 'classical.00099.wav', 5]
+                          [6, 'classical.00093.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00004.wav', 5]
+                          [9, 'classical.00049.wav', 5]
+                          [10, 'classical.00043.wav', 5]
+I predicted that the query is: classical.00050.wav and I was correct :D
+Current performance overall: 67.6923076923077 % 
+Classical % Correct: 67.6923076923077 %
+=============================================================
+Analyzing classical.00050-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00050.wav', 16] **
+                          [2, 'classical.00054.wav', 5]
+                          [3, 'classical.00022.wav', 4]
+                          [4, 'classical.00008.wav', 4]
+                          [5, 'classical.00020.wav', 4]
+                          [6, 'classical.00006.wav', 4]
+                          [7, 'classical.00016.wav', 4]
+                          [8, 'classical.00011.wav', 4]
+                          [9, 'classical.00003.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00050.wav and I was correct :D
+Current performance overall: 68.18181818181817 % 
+Classical % Correct: 68.18181818181817 %
+=============================================================
+Analyzing classical.00054-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00090.wav', 6]
+                          [2, 'classical.00042.wav', 5]
+                          [3, 'pop.00091.wav', 5]
+                          [4, 'pop.00047.wav', 5]
+                          [5, 'pop.00032.wav', 5]
+                          [6, 'classical.00006.wav', 5]
+                          [7, 'pop.00008.wav', 5]
+                          [8, 'classical.00023.wav', 5]
+                       ** [9, 'classical.00054.wav', 5] **
+                          [10, 'classical.00001.wav', 5]
+I predicted that the query is: classical.00090.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 67.16417910447761 % 
+Classical % Correct: 67.16417910447761 %
+=============================================================
+Analyzing classical.00054-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00054.wav', 18] **
+                          [2, 'pop.00040.wav', 6]
+                          [3, 'pop.00093.wav', 5]
+                          [4, 'classical.00029.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00028.wav', 4]
+                          [7, 'classical.00024.wav', 4]
+                          [8, 'classical.00022.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00054.wav and I was correct :D
+Current performance overall: 67.64705882352942 % 
+Classical % Correct: 67.64705882352942 %
+=============================================================
+Analyzing classical.00054-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00054.wav', 27] **
+                          [2, 'classical.00003.wav', 6]
+                          [3, 'pop.00090.wav', 5]
+                          [4, 'pop.00030.wav', 5]
+                          [5, 'classical.00099.wav', 5]
+                          [6, 'classical.00098.wav', 5]
+                          [7, 'classical.00006.wav', 5]
+                          [8, 'classical.00096.wav', 5]
+                          [9, 'classical.00004.wav', 5]
+                          [10, 'classical.00090.wav', 5]
+I predicted that the query is: classical.00054.wav and I was correct :D
+Current performance overall: 68.11594202898551 % 
+Classical % Correct: 68.11594202898551 %
+=============================================================
+Analyzing classical.00055-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00004.wav', 6]
+                          [2, 'classical.00025.wav', 5]
+                          [3, 'classical.00014.wav', 5]
+                          [4, 'pop.00012.wav', 5]
+                          [5, 'classical.00096.wav', 5]
+                          [6, 'classical.00068.wav', 5]
+                          [7, 'classical.00057.wav', 5]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00007.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00004.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 67.14285714285714 % 
+Classical % Correct: 67.14285714285714 %
+=============================================================
+Analyzing classical.00055-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00068.wav', 5]
+                          [2, 'pop.00019.wav', 5]
+                          [3, 'classical.00091.wav', 5]
+                          [4, 'classical.00070.wav', 5]
+                          [5, 'classical.00009.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00054.wav', 4]
+                          [8, 'classical.00052.wav', 4]
+                          [9, 'classical.00005.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00068.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 66.19718309859155 % 
+Classical % Correct: 66.19718309859155 %
+=============================================================
+Analyzing classical.00055-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00095.wav', 5]
+                          [2, 'pop.00076.wav', 5]
+                          [3, 'pop.00027.wav', 5]
+                          [4, 'classical.00017.wav', 5]
+                          [5, 'pop.00014.wav', 5]
+                          [6, 'pop.00009.wav', 5]
+                          [7, 'classical.00082.wav', 5]
+                          [8, 'classical.00075.wav', 5]
+                          [9, 'classical.00060.wav', 5]
+                          [10, 'classical.00029.wav', 5]
+I predicted that the query is: pop.00095.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 65.27777777777779 % 
+Classical % Correct: 65.27777777777779 %
+=============================================================
+Analyzing classical.00059-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00059.wav', 20] **
+                          [2, 'classical.00056.wav', 5]
+                          [3, 'classical.00027.wav', 5]
+                          [4, 'pop.00078.wav', 5]
+                          [5, 'classical.00005.wav', 5]
+                          [6, 'pop.00062.wav', 5]
+                          [7, 'classical.00014.wav', 5]
+                          [8, 'classical.00058.wav', 5]
+                          [9, 'classical.00025.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00059.wav and I was correct :D
+Current performance overall: 65.75342465753424 % 
+Classical % Correct: 65.75342465753424 %
+=============================================================
+Analyzing classical.00059-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00059.wav', 22] **
+                          [2, 'classical.00094.wav', 5]
+                          [3, 'classical.00068.wav', 5]
+                          [4, 'classical.00017.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00016.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00005.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: classical.00059.wav and I was correct :D
+Current performance overall: 66.21621621621621 % 
+Classical % Correct: 66.21621621621621 %
+=============================================================
+Analyzing classical.00059-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00059.wav', 9] **
+                          [2, 'classical.00069.wav', 7]
+                          [3, 'classical.00050.wav', 5]
+                          [4, 'classical.00019.wav', 5]
+                          [5, 'pop.00080.wav', 5]
+                          [6, 'pop.00040.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00025.wav', 4]
+                          [9, 'classical.00023.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00059.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00060-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00060.wav', 19] **
+                          [2, 'pop.00093.wav', 5]
+                          [3, 'classical.00088.wav', 5]
+                          [4, 'classical.00085.wav', 5]
+                          [5, 'classical.00076.wav', 5]
+                          [6, 'classical.00061.wav', 5]
+                          [7, 'classical.00009.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00007.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00060.wav and I was correct :D
+Current performance overall: 67.10526315789474 % 
+Classical % Correct: 67.10526315789474 %
+=============================================================
+Analyzing classical.00060-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00060.wav', 22] **
+                          [2, 'classical.00015.wav', 5]
+                          [3, 'pop.00091.wav', 5]
+                          [4, 'classical.00089.wav', 5]
+                          [5, 'classical.00068.wav', 5]
+                          [6, 'classical.00001.wav', 5]
+                          [7, 'classical.00019.wav', 4]
+                          [8, 'classical.00017.wav', 4]
+                          [9, 'classical.00007.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00060.wav and I was correct :D
+Current performance overall: 67.53246753246754 % 
+Classical % Correct: 67.53246753246754 %
+=============================================================
+Analyzing classical.00060-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00060.wav', 35] **
+                          [2, 'pop.00021.wav', 6]
+                          [3, 'classical.00026.wav', 5]
+                          [4, 'pop.00019.wav', 5]
+                          [5, 'pop.00010.wav', 5]
+                          [6, 'classical.00089.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00029.wav', 5]
+                          [9, 'classical.00001.wav', 5]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00060.wav and I was correct :D
+Current performance overall: 67.94871794871796 % 
+Classical % Correct: 67.94871794871796 %
+=============================================================
+Analyzing classical.00064-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00099.wav', 5]
+                          [2, 'pop.00094.wav', 5]
+                          [3, 'pop.00068.wav', 5]
+                          [4, 'classical.00082.wav', 4]
+                          [5, 'classical.00069.wav', 4]
+                          [6, 'classical.00056.wav', 4]
+                          [7, 'classical.00052.wav', 4]
+                          [8, 'classical.00048.wav', 4]
+                          [9, 'classical.00047.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: classical.00099.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 67.08860759493672 % 
+Classical % Correct: 67.08860759493672 %
+=============================================================
+Analyzing classical.00064-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00098.wav', 5]
+                          [2, 'classical.00054.wav', 5]
+                          [3, 'pop.00005.wav', 4]
+                          [4, 'pop.00004.wav', 4]
+                          [5, 'classical.00088.wav', 4]
+                          [6, 'classical.00076.wav', 4]
+                          [7, 'classical.00010.wav', 4]
+                          [8, 'classical.00071.wav', 4]
+                          [9, 'classical.00047.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00098.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 66.25 % 
+Classical % Correct: 66.25 %
+=============================================================
+Analyzing classical.00064-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00095.wav', 4]
+                          [2, 'classical.00091.wav', 4]
+                          [3, 'classical.00088.wav', 4]
+                          [4, 'classical.00057.wav', 4]
+                          [5, 'classical.00056.wav', 4]
+                          [6, 'classical.00051.wav', 4]
+                          [7, 'classical.00004.wav', 4]
+                          [8, 'classical.00050.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'classical.00020.wav', 4]
+I predicted that the query is: pop.00095.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 65.4320987654321 % 
+Classical % Correct: 65.4320987654321 %
+=============================================================
+Analyzing classical.00065-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00096.wav', 4]
+                          [2, 'classical.00081.wav', 4]
+                          [3, 'classical.00056.wav', 4]
+                          [4, 'classical.00046.wav', 4]
+                          [5, 'classical.00044.wav', 4]
+                          [6, 'classical.00043.wav', 4]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00017.wav', 4]
+                          [10, 'classical.00001.wav', 4]
+I predicted that the query is: pop.00096.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 64.63414634146342 % 
+Classical % Correct: 64.63414634146342 %
+=============================================================
+Analyzing classical.00065-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00065.wav', 7] **
+                          [2, 'classical.00056.wav', 5]
+                          [3, 'classical.00029.wav', 5]
+                          [4, 'classical.00013.wav', 5]
+                          [5, 'pop.00021.wav', 5]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00028.wav', 4]
+                          [8, 'classical.00026.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: classical.00065.wav and I was correct :D
+Current performance overall: 65.06024096385542 % 
+Classical % Correct: 65.06024096385542 %
+=============================================================
+Analyzing classical.00065-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00065.wav', 8] **
+                          [2, 'classical.00043.wav', 5]
+                          [3, 'pop.00057.wav', 5]
+                          [4, 'classical.00024.wav', 5]
+                          [5, 'pop.00020.wav', 5]
+                          [6, 'classical.00096.wav', 5]
+                          [7, 'classical.00070.wav', 5]
+                          [8, 'classical.00028.wav', 4]
+                          [9, 'classical.00026.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00065.wav and I was correct :D
+Current performance overall: 65.47619047619048 % 
+Classical % Correct: 65.47619047619048 %
+=============================================================
+Analyzing classical.00069-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00069.wav', 8] **
+                          [2, 'classical.00012.wav', 7]
+                          [3, 'classical.00090.wav', 6]
+                          [4, 'classical.00056.wav', 6]
+                          [5, 'pop.00068.wav', 6]
+                          [6, 'classical.00073.wav', 5]
+                          [7, 'classical.00068.wav', 5]
+                          [8, 'classical.00060.wav', 5]
+                          [9, 'classical.00058.wav', 5]
+                          [10, 'pop.00082.wav', 5]
+I predicted that the query is: classical.00069.wav and I was correct :D
+Current performance overall: 65.88235294117646 % 
+Classical % Correct: 65.88235294117646 %
+=============================================================
+Analyzing classical.00069-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00069.wav', 10] **
+                          [2, 'classical.00056.wav', 7]
+                          [3, 'pop.00090.wav', 6]
+                          [4, 'pop.00087.wav', 6]
+                          [5, 'pop.00085.wav', 6]
+                          [6, 'classical.00098.wav', 6]
+                          [7, 'classical.00074.wav', 6]
+                          [8, 'classical.00026.wav', 6]
+                          [9, 'classical.00025.wav', 6]
+                          [10, 'classical.00057.wav', 6]
+I predicted that the query is: classical.00069.wav and I was correct :D
+Current performance overall: 66.27906976744185 % 
+Classical % Correct: 66.27906976744185 %
+=============================================================
+Analyzing classical.00069-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00060.wav', 6]
+                          [2, 'classical.00024.wav', 5]
+                          [3, 'pop.00085.wav', 5]
+                          [4, 'pop.00077.wav', 5]
+                          [5, 'pop.00018.wav', 5]
+                          [6, 'classical.00056.wav', 5]
+                          [7, 'classical.00053.wav', 5]
+                          [8, 'classical.00048.wav', 5]
+                          [9, 'classical.00046.wav', 5]
+                          [10, 'classical.00034.wav', 5]
+I predicted that the query is: classical.00060.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 65.51724137931035 % 
+Classical % Correct: 65.51724137931035 %
+=============================================================
+Analyzing classical.00070-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00070.wav', 28] **
+                          [2, 'classical.00058.wav', 8]
+                          [3, 'classical.00009.wav', 5]
+                          [4, 'classical.00046.wav', 5]
+                          [5, 'classical.00036.wav', 5]
+                          [6, 'classical.00028.wav', 5]
+                          [7, 'classical.00005.wav', 5]
+                          [8, 'classical.00027.wav', 5]
+                          [9, 'classical.00003.wav', 5]
+                          [10, 'pop.00098.wav', 5]
+I predicted that the query is: classical.00070.wav and I was correct :D
+Current performance overall: 65.9090909090909 % 
+Classical % Correct: 65.9090909090909 %
+=============================================================
+Analyzing classical.00070-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00070.wav', 13] **
+                          [2, 'classical.00083.wav', 6]
+                          [3, 'pop.00093.wav', 5]
+                          [4, 'classical.00073.wav', 5]
+                          [5, 'classical.00069.wav', 5]
+                          [6, 'classical.00060.wav', 5]
+                          [7, 'classical.00050.wav', 5]
+                          [8, 'classical.00020.wav', 5]
+                          [9, 'classical.00019.wav', 5]
+                          [10, 'classical.00012.wav', 5]
+I predicted that the query is: classical.00070.wav and I was correct :D
+Current performance overall: 66.29213483146067 % 
+Classical % Correct: 66.29213483146067 %
+=============================================================
+Analyzing classical.00070-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00070.wav', 12] **
+                          [2, 'classical.00004.wav', 6]
+                          [3, 'pop.00094.wav', 5]
+                          [4, 'classical.00013.wav', 5]
+                          [5, 'pop.00021.wav', 5]
+                          [6, 'classical.00096.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00049.wav', 5]
+                          [9, 'classical.00034.wav', 5]
+                          [10, 'classical.00029.wav', 5]
+I predicted that the query is: classical.00070.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 66.66666666666666 %
+=============================================================
+Analyzing classical.00074-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00098.wav', 4]
+                          [2, 'classical.00045.wav', 4]
+                          [3, 'classical.00042.wav', 4]
+                          [4, 'classical.00037.wav', 4]
+                          [5, 'classical.00028.wav', 4]
+                          [6, 'classical.00024.wav', 4]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00022.wav', 4]
+                          [10, 'classical.00001.wav', 4]
+I predicted that the query is: pop.00098.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 65.93406593406593 % 
+Classical % Correct: 65.93406593406593 %
+=============================================================
+Analyzing classical.00074-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00011.wav', 5]
+                          [2, 'pop.00062.wav', 5]
+                          [3, 'pop.00036.wav', 5]
+                          [4, 'classical.00026.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00023.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00018.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00011.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 65.21739130434783 % 
+Classical % Correct: 65.21739130434783 %
+=============================================================
+Analyzing classical.00074-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00074.wav', 12] **
+                          [2, 'pop.00088.wav', 5]
+                          [3, 'pop.00022.wav', 5]
+                          [4, 'pop.00021.wav', 5]
+                          [5, 'classical.00088.wav', 5]
+                          [6, 'classical.00082.wav', 5]
+                          [7, 'classical.00076.wav', 5]
+                          [8, 'classical.00075.wav', 5]
+                          [9, 'classical.00058.wav', 5]
+                          [10, 'classical.00053.wav', 5]
+I predicted that the query is: classical.00074.wav and I was correct :D
+Current performance overall: 65.59139784946237 % 
+Classical % Correct: 65.59139784946237 %
+=============================================================
+Analyzing classical.00075-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00053.wav', 6]
+                          [2, 'pop.00021.wav', 6]
+                          [3, 'pop.00092.wav', 5]
+                          [4, 'pop.00062.wav', 5]
+                          [5, 'pop.00038.wav', 5]
+                          [6, 'pop.00026.wav', 5]
+                          [7, 'classical.00090.wav', 5]
+                          [8, 'classical.00069.wav', 5]
+                          [9, 'classical.00022.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00053.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 64.8936170212766 % 
+Classical % Correct: 64.8936170212766 %
+=============================================================
+Analyzing classical.00075-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00048.wav', 5]
+                          [2, 'pop.00098.wav', 4]
+                          [3, 'classical.00061.wav', 4]
+                          [4, 'classical.00060.wav', 4]
+                          [5, 'classical.00049.wav', 4]
+                          [6, 'classical.00022.wav', 4]
+                          [7, 'classical.00004.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'classical.00014.wav', 4]
+I predicted that the query is: classical.00048.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 64.21052631578948 % 
+Classical % Correct: 64.21052631578948 %
+=============================================================
+Analyzing classical.00075-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00048.wav', 5]
+                          [2, 'pop.00098.wav', 5]
+                          [3, 'pop.00080.wav', 5]
+                          [4, 'pop.00026.wav', 5]
+                          [5, 'pop.00002.wav', 5]
+                          [6, 'classical.00086.wav', 5]
+                          [7, 'classical.00060.wav', 5]
+                          [8, 'classical.00010.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'classical.00024.wav', 4]
+I predicted that the query is: classical.00048.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 63.541666666666664 % 
+Classical % Correct: 63.541666666666664 %
+=============================================================
+Analyzing classical.00079-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00013.wav', 6]
+                          [2, 'classical.00096.wav', 5]
+                          [3, 'classical.00094.wav', 5]
+                          [4, 'classical.00083.wav', 5]
+                          [5, 'classical.00069.wav', 5]
+                          [6, 'classical.00061.wav', 5]
+                          [7, 'classical.00053.wav', 5]
+                          [8, 'classical.00028.wav', 5]
+                          [9, 'classical.00026.wav', 5]
+                          [10, 'pop.00097.wav', 5]
+I predicted that the query is: classical.00013.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 62.88659793814433 % 
+Classical % Correct: 62.88659793814433 %
+=============================================================
+Analyzing classical.00079-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00000.wav', 5]
+                          [2, 'pop.00060.wav', 5]
+                          [3, 'pop.00054.wav', 5]
+                          [4, 'classical.00025.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00020.wav', 4]
+                          [7, 'classical.00017.wav', 4]
+                          [8, 'classical.00015.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: classical.00000.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 62.244897959183675 % 
+Classical % Correct: 62.244897959183675 %
+=============================================================
+Analyzing classical.00079-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00099.wav', 4]
+                          [2, 'classical.00071.wav', 4]
+                          [3, 'classical.00068.wav', 4]
+                          [4, 'classical.00050.wav', 4]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00042.wav', 4]
+                          [7, 'classical.00036.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00002.wav', 4]
+                          [10, 'classical.00024.wav', 4]
+I predicted that the query is: pop.00099.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 61.61616161616161 % 
+Classical % Correct: 61.61616161616161 %
+=============================================================
+Analyzing classical.00080-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00091.wav', 4]
+                          [2, 'pop.00035.wav', 4]
+                          [3, 'pop.00022.wav', 4]
+                          [4, 'classical.00093.wav', 4]
+                          [5, 'classical.00047.wav', 4]
+                          [6, 'classical.00042.wav', 4]
+                          [7, 'classical.00029.wav', 4]
+                          [8, 'classical.00025.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'classical.00015.wav', 4]
+I predicted that the query is: pop.00091.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 61.0 % 
+Classical % Correct: 61.0 %
+=============================================================
+Analyzing classical.00080-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00082.wav', 4]
+                          [2, 'classical.00058.wav', 4]
+                          [3, 'classical.00053.wav', 4]
+                          [4, 'classical.00048.wav', 4]
+                          [5, 'classical.00047.wav', 4]
+                          [6, 'classical.00046.wav', 4]
+                          [7, 'classical.00042.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00017.wav', 4]
+                          [10, 'classical.00001.wav', 4]
+I predicted that the query is: pop.00082.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 60.396039603960396 % 
+Classical % Correct: 60.396039603960396 %
+=============================================================
+Analyzing classical.00080-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00096.wav', 5]
+                          [2, 'classical.00074.wav', 5]
+                          [3, 'classical.00069.wav', 5]
+                          [4, 'pop.00077.wav', 5]
+                          [5, 'classical.00017.wav', 5]
+                          [6, 'classical.00073.wav', 4]
+                          [7, 'classical.00066.wav', 4]
+                          [8, 'classical.00060.wav', 4]
+                          [9, 'classical.00059.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: classical.00096.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 59.80392156862745 % 
+Classical % Correct: 59.80392156862745 %
+=============================================================
+Analyzing classical.00084-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00084.wav', 6] **
+                          [2, 'classical.00012.wav', 5]
+                          [3, 'classical.00007.wav', 5]
+                          [4, 'pop.00093.wav', 5]
+                          [5, 'pop.00042.wav', 5]
+                          [6, 'classical.00056.wav', 5]
+                          [7, 'classical.00001.wav', 5]
+                          [8, 'classical.00010.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00097.wav', 4]
+I predicted that the query is: classical.00084.wav and I was correct :D
+Current performance overall: 60.19417475728155 % 
+Classical % Correct: 60.19417475728155 %
+=============================================================
+Analyzing classical.00084-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00054.wav', 6]
+                          [2, 'pop.00047.wav', 6]
+                          [3, 'classical.00023.wav', 4]
+                          [4, 'classical.00008.wav', 4]
+                          [5, 'classical.00007.wav', 4]
+                          [6, 'classical.00021.wav', 4]
+                          [7, 'classical.00012.wav', 4]
+                          [8, 'classical.00011.wav', 4]
+                          [9, 'classical.00003.wav', 4]
+                          [10, 'pop.00091.wav', 4]
+I predicted that the query is: classical.00054.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 59.61538461538461 % 
+Classical % Correct: 59.61538461538461 %
+=============================================================
+Analyzing classical.00084-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00096.wav', 6]
+                          [2, 'pop.00037.wav', 6]
+                       ** [3, 'classical.00084.wav', 6] **
+                          [4, 'classical.00068.wav', 5]
+                          [5, 'pop.00093.wav', 5]
+                          [6, 'pop.00002.wav', 5]
+                          [7, 'classical.00088.wav', 5]
+                          [8, 'classical.00022.wav', 5]
+                          [9, 'classical.00071.wav', 5]
+                          [10, 'classical.00029.wav', 4]
+I predicted that the query is: pop.00096.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 59.04761904761905 % 
+Classical % Correct: 59.04761904761905 %
+=============================================================
+Analyzing classical.00085-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00085.wav', 18] **
+                          [2, 'classical.00049.wav', 7]
+                          [3, 'pop.00092.wav', 6]
+                          [4, 'classical.00050.wav', 5]
+                          [5, 'classical.00008.wav', 5]
+                          [6, 'classical.00044.wav', 5]
+                          [7, 'classical.00038.wav', 5]
+                          [8, 'classical.00004.wav', 5]
+                          [9, 'classical.00029.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: classical.00085.wav and I was correct :D
+Current performance overall: 59.43396226415094 % 
+Classical % Correct: 59.43396226415094 %
+=============================================================
+Analyzing classical.00085-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00085.wav', 11] **
+                          [2, 'pop.00026.wav', 6]
+                          [3, 'pop.00009.wav', 5]
+                          [4, 'classical.00090.wav', 5]
+                          [5, 'classical.00058.wav', 5]
+                          [6, 'classical.00056.wav', 5]
+                          [7, 'classical.00053.wav', 5]
+                          [8, 'classical.00052.wav', 5]
+                          [9, 'classical.00012.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: classical.00085.wav and I was correct :D
+Current performance overall: 59.813084112149525 % 
+Classical % Correct: 59.813084112149525 %
+=============================================================
+Analyzing classical.00085-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'classical.00085.wav', 17] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00038.wav', 6]
+                          [4, 'classical.00037.wav', 6]
+                          [5, 'classical.00013.wav', 6]
+                          [6, 'pop.00048.wav', 6]
+                          [7, 'pop.00027.wav', 6]
+                          [8, 'classical.00069.wav', 6]
+                          [9, 'classical.00058.wav', 6]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: classical.00085.wav and I was correct :D
+Current performance overall: 60.18518518518518 % 
+Classical % Correct: 60.18518518518518 %
+=============================================================
+Analyzing pop.00000-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00000.wav', 9] **
+                          [2, 'classical.00094.wav', 5]
+                          [3, 'pop.00058.wav', 5]
+                          [4, 'classical.00061.wav', 4]
+                          [5, 'classical.00058.wav', 4]
+                          [6, 'classical.00056.wav', 4]
+                          [7, 'classical.00049.wav', 4]
+                          [8, 'classical.00046.wav', 4]
+                          [9, 'classical.00042.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00000.wav and I was correct :D
+Current performance overall: 60.550458715596335 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00000-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00000.wav', 10] **
+                          [2, 'pop.00001.wav', 5]
+                          [3, 'classical.00049.wav', 4]
+                          [4, 'classical.00048.wav', 4]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00043.wav', 4]
+                          [7, 'classical.00042.wav', 4]
+                          [8, 'classical.00036.wav', 4]
+                          [9, 'classical.00027.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00000.wav and I was correct :D
+Current performance overall: 60.909090909090914 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00000-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00000.wav', 15] **
+                          [2, 'classical.00056.wav', 5]
+                          [3, 'pop.00040.wav', 5]
+                          [4, 'pop.00021.wav', 5]
+                          [5, 'pop.00001.wav', 5]
+                          [6, 'classical.00049.wav', 4]
+                          [7, 'classical.00042.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00027.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00000.wav and I was correct :D
+Current performance overall: 61.261261261261254 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00003-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00003.wav', 12] **
+                          [2, 'classical.00029.wav', 5]
+                          [3, 'pop.00096.wav', 5]
+                          [4, 'pop.00073.wav', 5]
+                          [5, 'pop.00071.wav', 5]
+                          [6, 'pop.00067.wav', 5]
+                          [7, 'classical.00026.wav', 4]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00014.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00003.wav and I was correct :D
+Current performance overall: 61.60714285714286 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00003-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00003.wav', 15] **
+                          [2, 'pop.00067.wav', 6]
+                          [3, 'pop.00090.wav', 6]
+                          [4, 'pop.00071.wav', 6]
+                          [5, 'classical.00016.wav', 5]
+                          [6, 'pop.00051.wav', 5]
+                          [7, 'classical.00015.wav', 5]
+                          [8, 'classical.00014.wav', 5]
+                          [9, 'pop.00036.wav', 5]
+                          [10, 'classical.00003.wav', 5]
+I predicted that the query is: pop.00003.wav and I was correct :D
+Current performance overall: 61.94690265486725 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00003-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00003.wav', 13] **
+                          [2, 'pop.00093.wav', 5]
+                          [3, 'classical.00093.wav', 5]
+                          [4, 'classical.00058.wav', 5]
+                          [5, 'classical.00056.wav', 5]
+                          [6, 'classical.00053.wav', 5]
+                          [7, 'classical.00050.wav', 5]
+                          [8, 'classical.00042.wav', 5]
+                          [9, 'classical.00028.wav', 5]
+                          [10, 'classical.00027.wav', 5]
+I predicted that the query is: pop.00003.wav and I was correct :D
+Current performance overall: 62.28070175438597 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00004-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00004.wav', 11] **
+                          [2, 'pop.00099.wav', 5]
+                          [3, 'pop.00058.wav', 5]
+                          [4, 'pop.00033.wav', 5]
+                          [5, 'pop.00032.wav', 5]
+                          [6, 'pop.00027.wav', 5]
+                          [7, 'pop.00014.wav', 5]
+                          [8, 'classical.00052.wav', 5]
+                          [9, 'classical.00029.wav', 5]
+                          [10, 'classical.00028.wav', 5]
+I predicted that the query is: pop.00004.wav and I was correct :D
+Current performance overall: 62.60869565217392 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00004-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00004.wav', 11] **
+                          [2, 'classical.00054.wav', 6]
+                          [3, 'pop.00073.wav', 5]
+                          [4, 'classical.00073.wav', 5]
+                          [5, 'classical.00062.wav', 5]
+                          [6, 'classical.00017.wav', 4]
+                          [7, 'classical.00016.wav', 4]
+                          [8, 'classical.00014.wav', 4]
+                          [9, 'classical.00006.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00004.wav and I was correct :D
+Current performance overall: 62.93103448275862 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00005-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00005.wav', 10] **
+                          [2, 'classical.00056.wav', 5]
+                          [3, 'classical.00022.wav', 5]
+                          [4, 'pop.00095.wav', 5]
+                          [5, 'classical.00099.wav', 5]
+                          [6, 'classical.00086.wav', 5]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00005.wav and I was correct :D
+Current performance overall: 63.24786324786324 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00005-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00005.wav', 17] **
+                          [2, 'pop.00092.wav', 6]
+                          [3, 'classical.00011.wav', 5]
+                          [4, 'pop.00077.wav', 5]
+                          [5, 'classical.00060.wav', 5]
+                          [6, 'classical.00020.wav', 5]
+                          [7, 'classical.00050.wav', 5]
+                          [8, 'classical.00044.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00005.wav and I was correct :D
+Current performance overall: 63.559322033898304 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00009-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00009.wav', 56] **
+                          [2, 'classical.00044.wav', 5]
+                          [3, 'pop.00076.wav', 5]
+                          [4, 'pop.00062.wav', 5]
+                          [5, 'pop.00034.wav', 5]
+                          [6, 'classical.00091.wav', 5]
+                          [7, 'classical.00090.wav', 5]
+                          [8, 'classical.00082.wav', 5]
+                          [9, 'classical.00081.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00009.wav and I was correct :D
+Current performance overall: 63.86554621848739 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00009-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00009.wav', 36] **
+                          [2, 'classical.00068.wav', 5]
+                          [3, 'pop.00040.wav', 5]
+                          [4, 'classical.00021.wav', 5]
+                          [5, 'pop.00005.wav', 5]
+                          [6, 'classical.00093.wav', 5]
+                          [7, 'classical.00090.wav', 5]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00009.wav and I was correct :D
+Current performance overall: 64.16666666666667 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00010-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00010.wav', 17] **
+                          [2, 'classical.00060.wav', 5]
+                          [3, 'pop.00082.wav', 5]
+                          [4, 'classical.00029.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00027.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00017.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00010.wav and I was correct :D
+Current performance overall: 64.46280991735537 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00010-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00010.wav', 15] **
+                          [2, 'classical.00040.wav', 5]
+                          [3, 'classical.00027.wav', 5]
+                          [4, 'pop.00096.wav', 5]
+                          [5, 'pop.00092.wav', 5]
+                          [6, 'pop.00076.wav', 5]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00026.wav', 4]
+                          [9, 'classical.00025.wav', 4]
+                          [10, 'classical.00024.wav', 4]
+I predicted that the query is: pop.00010.wav and I was correct :D
+Current performance overall: 64.75409836065575 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00010-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00010.wav', 28] **
+                          [2, 'classical.00029.wav', 6]
+                          [3, 'pop.00027.wav', 5]
+                          [4, 'classical.00099.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00015.wav', 5]
+                          [7, 'classical.00058.wav', 5]
+                          [8, 'classical.00001.wav', 5]
+                          [9, 'classical.00027.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00010.wav and I was correct :D
+Current performance overall: 65.04065040650406 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00011-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00011.wav', 10] **
+                          [2, 'classical.00058.wav', 5]
+                          [3, 'pop.00092.wav', 5]
+                          [4, 'pop.00058.wav', 5]
+                          [5, 'classical.00027.wav', 5]
+                          [6, 'classical.00082.wav', 5]
+                          [7, 'classical.00060.wav', 5]
+                          [8, 'classical.00009.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00011.wav and I was correct :D
+Current performance overall: 65.32258064516128 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00011-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00011.wav', 19] **
+                          [2, 'pop.00028.wav', 7]
+                          [3, 'classical.00083.wav', 6]
+                          [4, 'pop.00086.wav', 6]
+                          [5, 'classical.00024.wav', 6]
+                          [6, 'classical.00046.wav', 5]
+                          [7, 'classical.00044.wav', 5]
+                          [8, 'classical.00036.wav', 5]
+                          [9, 'classical.00029.wav', 5]
+                          [10, 'pop.00094.wav', 5]
+I predicted that the query is: pop.00011.wav and I was correct :D
+Current performance overall: 65.60000000000001 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00011-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00011.wav', 21] **
+                          [2, 'classical.00056.wav', 7]
+                          [3, 'classical.00014.wav', 7]
+                          [4, 'classical.00046.wav', 5]
+                          [5, 'classical.00043.wav', 5]
+                          [6, 'classical.00029.wav', 5]
+                          [7, 'classical.00028.wav', 5]
+                          [8, 'classical.00027.wav', 5]
+                          [9, 'classical.00026.wav', 5]
+                          [10, 'pop.00095.wav', 5]
+I predicted that the query is: pop.00011.wav and I was correct :D
+Current performance overall: 65.87301587301587 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00012-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00012.wav', 11] **
+                          [2, 'pop.00000.wav', 5]
+                          [3, 'pop.00070.wav', 5]
+                          [4, 'classical.00059.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00058.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00005.wav', 4]
+                          [9, 'classical.00038.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00012.wav and I was correct :D
+Current performance overall: 66.14173228346458 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00012-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00012.wav', 21] **
+                          [2, 'classical.00028.wav', 5]
+                          [3, 'classical.00014.wav', 5]
+                          [4, 'pop.00087.wav', 5]
+                          [5, 'pop.00028.wav', 5]
+                          [6, 'pop.00021.wav', 5]
+                          [7, 'pop.00014.wav', 5]
+                          [8, 'classical.00092.wav', 5]
+                          [9, 'classical.00073.wav', 5]
+                          [10, 'classical.00001.wav', 5]
+I predicted that the query is: pop.00012.wav and I was correct :D
+Current performance overall: 66.40625 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00012-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00012.wav', 41] **
+                          [2, 'pop.00090.wav', 5]
+                          [3, 'pop.00085.wav', 5]
+                          [4, 'pop.00034.wav', 5]
+                          [5, 'pop.00020.wav', 5]
+                          [6, 'pop.00000.wav', 5]
+                          [7, 'classical.00088.wav', 5]
+                          [8, 'classical.00085.wav', 5]
+                          [9, 'classical.00076.wav', 5]
+                          [10, 'classical.00056.wav', 5]
+I predicted that the query is: pop.00012.wav and I was correct :D
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00013-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00013.wav', 9] **
+                          [2, 'pop.00064.wav', 4]
+                          [3, 'classical.00008.wav', 4]
+                          [4, 'pop.00001.wav', 4]
+                          [5, 'pop.00000.wav', 4]
+                          [6, 'classical.00005.wav', 4]
+                          [7, 'classical.00090.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00053.wav', 4]
+                          [10, 'classical.00046.wav', 4]
+I predicted that the query is: pop.00013.wav and I was correct :D
+Current performance overall: 66.92307692307692 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00013-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00013.wav', 6] **
+                          [2, 'classical.00049.wav', 5]
+                          [3, 'classical.00028.wav', 5]
+                          [4, 'classical.00009.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00068.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00056.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00013.wav and I was correct :D
+Current performance overall: 67.17557251908397 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00013-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00013.wav', 13] **
+                          [2, 'classical.00037.wav', 5]
+                          [3, 'pop.00019.wav', 5]
+                          [4, 'classical.00061.wav', 5]
+                          [5, 'classical.00012.wav', 5]
+                          [6, 'classical.00059.wav', 5]
+                          [7, 'classical.00046.wav', 5]
+                          [8, 'classical.00025.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00013.wav and I was correct :D
+Current performance overall: 67.42424242424242 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00014-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00014.wav', 37] **
+                          [2, 'classical.00092.wav', 5]
+                          [3, 'classical.00090.wav', 5]
+                          [4, 'pop.00096.wav', 5]
+                          [5, 'classical.00020.wav', 5]
+                          [6, 'classical.00088.wav', 4]
+                          [7, 'classical.00086.wav', 4]
+                          [8, 'classical.00059.wav', 4]
+                          [9, 'classical.00054.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00014.wav and I was correct :D
+Current performance overall: 67.66917293233082 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00014-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00014.wav', 25] **
+                          [2, 'classical.00003.wav', 6]
+                          [3, 'classical.00076.wav', 5]
+                          [4, 'pop.00021.wav', 5]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00044.wav', 4]
+                          [8, 'classical.00026.wav', 4]
+                          [9, 'classical.00005.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00014.wav and I was correct :D
+Current performance overall: 67.91044776119402 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00014-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00014.wav', 24] **
+                          [2, 'classical.00086.wav', 5]
+                          [3, 'pop.00078.wav', 5]
+                          [4, 'pop.00076.wav', 5]
+                          [5, 'classical.00003.wav', 5]
+                          [6, 'pop.00047.wav', 5]
+                          [7, 'classical.00022.wav', 5]
+                          [8, 'classical.00090.wav', 4]
+                          [9, 'classical.00088.wav', 4]
+                          [10, 'pop.00090.wav', 4]
+I predicted that the query is: pop.00014.wav and I was correct :D
+Current performance overall: 68.14814814814815 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 100.0 %
+=============================================================
+Analyzing pop.00015-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00022.wav', 30]
+                       ** [2, 'pop.00015.wav', 27] **
+                          [3, 'pop.00037.wav', 12]
+                          [4, 'pop.00027.wav', 6]
+                          [5, 'pop.00019.wav', 5]
+                          [6, 'classical.00090.wav', 5]
+                          [7, 'classical.00085.wav', 5]
+                          [8, 'classical.00076.wav', 5]
+                          [9, 'classical.00003.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: pop.00022.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 67.64705882352942 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 96.42857142857143 %
+=============================================================
+Analyzing pop.00015-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00022.wav', 32]
+                       ** [2, 'pop.00015.wav', 28] **
+                          [3, 'pop.00037.wav', 7]
+                          [4, 'classical.00086.wav', 5]
+                          [5, 'pop.00029.wav', 5]
+                          [6, 'pop.00024.wav', 5]
+                          [7, 'pop.00018.wav', 5]
+                          [8, 'classical.00092.wav', 5]
+                          [9, 'classical.00090.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00022.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 67.15328467153284 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 93.10344827586206 %
+=============================================================
+Analyzing pop.00015-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00022.wav', 35]
+                       ** [2, 'pop.00015.wav', 34] **
+                          [3, 'pop.00037.wav', 7]
+                          [4, 'classical.00069.wav', 5]
+                          [5, 'pop.00059.wav', 5]
+                          [6, 'pop.00056.wav', 5]
+                          [7, 'classical.00085.wav', 5]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00022.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 66.66666666666666 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.0 %
+=============================================================
+Analyzing pop.00019-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00019.wav', 6] **
+                          [2, 'classical.00016.wav', 5]
+                          [3, 'classical.00096.wav', 5]
+                          [4, 'classical.00053.wav', 5]
+                          [5, 'classical.00050.wav', 5]
+                          [6, 'classical.00042.wav', 5]
+                          [7, 'classical.00003.wav', 5]
+                          [8, 'classical.00028.wav', 5]
+                          [9, 'classical.00026.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00019.wav and I was correct :D
+Current performance overall: 66.90647482014388 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.32258064516128 %
+=============================================================
+Analyzing pop.00019-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00019.wav', 14] **
+                          [2, 'classical.00049.wav', 6]
+                          [3, 'pop.00087.wav', 5]
+                          [4, 'pop.00086.wav', 5]
+                          [5, 'pop.00063.wav', 5]
+                          [6, 'classical.00088.wav', 5]
+                          [7, 'classical.00073.wav', 5]
+                          [8, 'classical.00069.wav', 5]
+                          [9, 'classical.00058.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00019.wav and I was correct :D
+Current performance overall: 67.14285714285714 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.625 %
+=============================================================
+Analyzing pop.00019-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00019.wav', 13] **
+                          [2, 'classical.00008.wav', 7]
+                          [3, 'classical.00053.wav', 5]
+                          [4, 'classical.00049.wav', 5]
+                          [5, 'classical.00046.wav', 5]
+                          [6, 'classical.00029.wav', 5]
+                          [7, 'classical.00028.wav', 5]
+                          [8, 'classical.00003.wav', 5]
+                          [9, 'classical.00026.wav', 5]
+                          [10, 'pop.00095.wav', 5]
+I predicted that the query is: pop.00019.wav and I was correct :D
+Current performance overall: 67.37588652482269 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.9090909090909 %
+=============================================================
+Analyzing pop.00020-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00029.wav', 5]
+                          [2, 'classical.00004.wav', 5]
+                          [3, 'pop.00096.wav', 5]
+                          [4, 'classical.00089.wav', 5]
+                          [5, 'classical.00086.wav', 5]
+                          [6, 'classical.00021.wav', 4]
+                          [7, 'classical.00019.wav', 4]
+                          [8, 'classical.00018.wav', 4]
+                          [9, 'classical.00017.wav', 4]
+                          [10, 'classical.00015.wav', 4]
+I predicted that the query is: classical.00029.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 66.90140845070422 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.23529411764706 %
+=============================================================
+Analyzing pop.00020-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00020.wav', 11] **
+                          [2, 'classical.00088.wav', 7]
+                          [3, 'classical.00021.wav', 5]
+                          [4, 'pop.00065.wav', 5]
+                          [5, 'classical.00004.wav', 5]
+                          [6, 'classical.00089.wav', 5]
+                          [7, 'classical.00074.wav', 5]
+                          [8, 'classical.00009.wav', 4]
+                          [9, 'classical.00015.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00020.wav and I was correct :D
+Current performance overall: 67.13286713286713 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.57142857142857 %
+=============================================================
+Analyzing pop.00020-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00020.wav', 18] **
+                          [2, 'pop.00087.wav', 5]
+                          [3, 'classical.00009.wav', 5]
+                          [4, 'pop.00019.wav', 5]
+                          [5, 'pop.00018.wav', 5]
+                          [6, 'classical.00086.wav', 5]
+                          [7, 'classical.00076.wav', 5]
+                          [8, 'classical.00003.wav', 5]
+                          [9, 'classical.00075.wav', 5]
+                          [10, 'classical.00058.wav', 5]
+I predicted that the query is: pop.00020.wav and I was correct :D
+Current performance overall: 67.36111111111111 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.88888888888889 %
+=============================================================
+Analyzing pop.00024-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00024.wav', 35] **
+                          [2, 'classical.00048.wav', 5]
+                          [3, 'pop.00075.wav', 5]
+                          [4, 'pop.00059.wav', 5]
+                          [5, 'classical.00093.wav', 5]
+                          [6, 'classical.00091.wav', 5]
+                          [7, 'classical.00090.wav', 5]
+                          [8, 'classical.00085.wav', 5]
+                          [9, 'classical.00061.wav', 5]
+                          [10, 'classical.00001.wav', 5]
+I predicted that the query is: pop.00024.wav and I was correct :D
+Current performance overall: 67.58620689655173 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.1891891891892 %
+=============================================================
+Analyzing pop.00024-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00024.wav', 37] **
+                          [2, 'classical.00091.wav', 6]
+                          [3, 'classical.00054.wav', 5]
+                          [4, 'classical.00044.wav', 5]
+                          [5, 'pop.00073.wav', 5]
+                          [6, 'pop.00058.wav', 5]
+                          [7, 'classical.00004.wav', 5]
+                          [8, 'classical.00090.wav', 5]
+                          [9, 'classical.00056.wav', 5]
+                          [10, 'classical.00015.wav', 5]
+I predicted that the query is: pop.00024.wav and I was correct :D
+Current performance overall: 67.8082191780822 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.47368421052632 %
+=============================================================
+Analyzing pop.00025-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00025.wav', 16] **
+                          [2, 'classical.00094.wav', 6]
+                          [3, 'classical.00056.wav', 6]
+                          [4, 'pop.00096.wav', 5]
+                          [5, 'pop.00058.wav', 5]
+                          [6, 'pop.00024.wav', 5]
+                          [7, 'pop.00011.wav', 5]
+                          [8, 'pop.00009.wav', 5]
+                          [9, 'classical.00096.wav', 5]
+                          [10, 'classical.00047.wav', 5]
+I predicted that the query is: pop.00025.wav and I was correct :D
+Current performance overall: 68.02721088435374 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.74358974358975 %
+=============================================================
+Analyzing pop.00025-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00025.wav', 21] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00015.wav', 5]
+                          [4, 'classical.00093.wav', 5]
+                          [5, 'classical.00091.wav', 5]
+                          [6, 'classical.00082.wav', 5]
+                          [7, 'classical.00073.wav', 5]
+                          [8, 'classical.00051.wav', 5]
+                          [9, 'classical.00029.wav', 5]
+                          [10, 'pop.00085.wav', 5]
+I predicted that the query is: pop.00025.wav and I was correct :D
+Current performance overall: 68.24324324324324 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.0 %
+=============================================================
+Analyzing pop.00025-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00025.wav', 19] **
+                          [2, 'pop.00048.wav', 6]
+                          [3, 'classical.00001.wav', 6]
+                          [4, 'classical.00056.wav', 5]
+                          [5, 'classical.00053.wav', 5]
+                          [6, 'classical.00013.wav', 5]
+                          [7, 'classical.00049.wav', 5]
+                          [8, 'classical.00029.wav', 5]
+                          [9, 'classical.00017.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: pop.00025.wav and I was correct :D
+Current performance overall: 68.45637583892618 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.2439024390244 %
+=============================================================
+Analyzing pop.00034-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00034.wav', 38] **
+                          [2, 'classical.00010.wav', 6]
+                          [3, 'classical.00017.wav', 5]
+                          [4, 'pop.00082.wav', 5]
+                          [5, 'classical.00096.wav', 5]
+                          [6, 'classical.00083.wav', 5]
+                          [7, 'classical.00073.wav', 5]
+                          [8, 'classical.00069.wav', 5]
+                          [9, 'classical.00027.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00034.wav and I was correct :D
+Current performance overall: 68.66666666666667 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.47619047619048 %
+=============================================================
+Analyzing pop.00034-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00034.wav', 44] **
+                          [2, 'classical.00096.wav', 5]
+                          [3, 'pop.00077.wav', 5]
+                          [4, 'pop.00075.wav', 5]
+                          [5, 'pop.00002.wav', 5]
+                          [6, 'classical.00099.wav', 5]
+                          [7, 'classical.00052.wav', 4]
+                          [8, 'classical.00046.wav', 4]
+                          [9, 'classical.00045.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00034.wav and I was correct :D
+Current performance overall: 68.87417218543047 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.69767441860465 %
+=============================================================
+Analyzing pop.00034-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00034.wav', 57] **
+                          [2, 'classical.00047.wav', 6]
+                          [3, 'pop.00092.wav', 6]
+                          [4, 'pop.00030.wav', 5]
+                          [5, 'classical.00097.wav', 5]
+                          [6, 'classical.00076.wav', 5]
+                          [7, 'classical.00072.wav', 5]
+                          [8, 'classical.00068.wav', 5]
+                          [9, 'classical.00032.wav', 5]
+                          [10, 'pop.00096.wav', 5]
+I predicted that the query is: pop.00034.wav and I was correct :D
+Current performance overall: 69.07894736842105 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.9090909090909 %
+=============================================================
+Analyzing pop.00035-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00035.wav', 70] **
+                          [2, 'pop.00020.wav', 6]
+                          [3, 'classical.00076.wav', 5]
+                          [4, 'pop.00092.wav', 5]
+                          [5, 'pop.00024.wav', 5]
+                          [6, 'pop.00017.wav', 5]
+                          [7, 'classical.00088.wav', 5]
+                          [8, 'classical.00015.wav', 4]
+                          [9, 'classical.00008.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00035.wav and I was correct :D
+Current performance overall: 69.28104575163398 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.11111111111111 %
+=============================================================
+Analyzing pop.00035-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00035.wav', 61] **
+                          [2, 'pop.00029.wav', 5]
+                          [3, 'pop.00024.wav', 5]
+                          [4, 'pop.00023.wav', 5]
+                          [5, 'pop.00014.wav', 5]
+                          [6, 'pop.00010.wav', 5]
+                          [7, 'classical.00092.wav', 5]
+                          [8, 'classical.00091.wav', 5]
+                          [9, 'classical.00088.wav', 5]
+                          [10, 'pop.00084.wav', 5]
+I predicted that the query is: pop.00035.wav and I was correct :D
+Current performance overall: 69.48051948051948 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.30434782608695 %
+=============================================================
+Analyzing pop.00035-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00035.wav', 46] **
+                          [2, 'pop.00062.wav', 5]
+                          [3, 'pop.00056.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'pop.00052.wav', 5]
+                          [6, 'pop.00042.wav', 5]
+                          [7, 'pop.00032.wav', 5]
+                          [8, 'classical.00020.wav', 5]
+                          [9, 'pop.00008.wav', 5]
+                          [10, 'classical.00046.wav', 5]
+I predicted that the query is: pop.00035.wav and I was correct :D
+Current performance overall: 69.6774193548387 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.48936170212765 %
+=============================================================
+Analyzing pop.00039-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00039.wav', 10] **
+                          [2, 'classical.00053.wav', 4]
+                          [3, 'classical.00049.wav', 4]
+                          [4, 'classical.00045.wav', 4]
+                          [5, 'classical.00040.wav', 4]
+                          [6, 'classical.00036.wav', 4]
+                          [7, 'classical.00035.wav', 4]
+                          [8, 'classical.00028.wav', 4]
+                          [9, 'classical.00027.wav', 4]
+                          [10, 'pop.00097.wav', 4]
+I predicted that the query is: pop.00039.wav and I was correct :D
+Current performance overall: 69.87179487179486 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.66666666666666 %
+=============================================================
+Analyzing pop.00039-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00039.wav', 26] **
+                          [2, 'classical.00060.wav', 5]
+                          [3, 'pop.00048.wav', 5]
+                          [4, 'classical.00029.wav', 4]
+                          [5, 'classical.00008.wav', 4]
+                          [6, 'classical.00028.wav', 4]
+                          [7, 'classical.00025.wav', 4]
+                          [8, 'classical.00024.wav', 4]
+                          [9, 'classical.00023.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00039.wav and I was correct :D
+Current performance overall: 70.06369426751591 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.83673469387756 %
+=============================================================
+Analyzing pop.00039-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00039.wav', 27] **
+                          [2, 'classical.00076.wav', 5]
+                          [3, 'pop.00037.wav', 5]
+                          [4, 'classical.00017.wav', 5]
+                          [5, 'pop.00013.wav', 5]
+                          [6, 'classical.00040.wav', 4]
+                          [7, 'classical.00032.wav', 4]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00039.wav and I was correct :D
+Current performance overall: 70.25316455696202 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.0 %
+=============================================================
+Analyzing pop.00040-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00040.wav', 9] **
+                          [2, 'pop.00045.wav', 5]
+                          [3, 'classical.00042.wav', 4]
+                          [4, 'classical.00008.wav', 4]
+                          [5, 'classical.00035.wav', 4]
+                          [6, 'classical.00024.wav', 4]
+                          [7, 'classical.00022.wav', 4]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00016.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00040.wav and I was correct :D
+Current performance overall: 70.44025157232704 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.15686274509804 %
+=============================================================
+Analyzing pop.00040-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00040.wav', 22] **
+                          [2, 'pop.00020.wav', 5]
+                          [3, 'classical.00094.wav', 5]
+                          [4, 'classical.00088.wav', 5]
+                          [5, 'classical.00082.wav', 5]
+                          [6, 'classical.00015.wav', 5]
+                          [7, 'classical.00074.wav', 5]
+                          [8, 'classical.00068.wav', 5]
+                          [9, 'classical.00012.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: pop.00040.wav and I was correct :D
+Current performance overall: 70.625 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.3076923076923 %
+=============================================================
+Analyzing pop.00044-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00044.wav', 9] **
+                          [2, 'classical.00040.wav', 5]
+                          [3, 'classical.00032.wav', 5]
+                          [4, 'classical.00092.wav', 5]
+                          [5, 'classical.00028.wav', 4]
+                          [6, 'classical.00024.wav', 4]
+                          [7, 'classical.00022.wav', 4]
+                          [8, 'classical.00020.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00044.wav and I was correct :D
+Current performance overall: 70.80745341614907 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.45283018867924 %
+=============================================================
+Analyzing pop.00044-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00044.wav', 8] **
+                          [2, 'classical.00047.wav', 6]
+                          [3, 'pop.00051.wav', 5]
+                          [4, 'pop.00034.wav', 5]
+                          [5, 'classical.00028.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00011.wav', 4]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00021.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00044.wav and I was correct :D
+Current performance overall: 70.98765432098766 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.5925925925926 %
+=============================================================
+Analyzing pop.00044-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00044.wav', 7] **
+                          [2, 'classical.00079.wav', 5]
+                          [3, 'classical.00008.wav', 5]
+                          [4, 'classical.00021.wav', 5]
+                          [5, 'pop.00094.wav', 5]
+                          [6, 'pop.00086.wav', 5]
+                          [7, 'pop.00063.wav', 5]
+                          [8, 'pop.00042.wav', 5]
+                          [9, 'pop.00024.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00044.wav and I was correct :D
+Current performance overall: 71.16564417177914 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 92.72727272727272 %
+=============================================================
+Analyzing pop.00045-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00046.wav', 6]
+                          [2, 'classical.00037.wav', 5]
+                          [3, 'pop.00088.wav', 5]
+                          [4, 'pop.00079.wav', 5]
+                       ** [5, 'pop.00045.wav', 5] **
+                          [6, 'classical.00097.wav', 5]
+                          [7, 'classical.00016.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00007.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00046.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 70.73170731707317 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 91.07142857142857 %
+=============================================================
+Analyzing pop.00045-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00046.wav', 8]
+                          [2, 'pop.00090.wav', 5]
+                          [3, 'pop.00068.wav', 5]
+                          [4, 'pop.00062.wav', 5]
+                          [5, 'pop.00056.wav', 5]
+                          [6, 'classical.00015.wav', 5]
+                          [7, 'classical.00014.wav', 5]
+                          [8, 'pop.00048.wav', 5]
+                       ** [9, 'pop.00045.wav', 5] **
+                          [10, 'classical.00042.wav', 5]
+I predicted that the query is: pop.00046.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 70.3030303030303 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.47368421052632 %
+=============================================================
+Analyzing pop.00045-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00045.wav', 9] **
+                          [2, 'pop.00046.wav', 8]
+                          [3, 'classical.00068.wav', 5]
+                          [4, 'pop.00085.wav', 5]
+                          [5, 'pop.00059.wav', 5]
+                          [6, 'classical.00088.wav', 5]
+                          [7, 'classical.00009.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00017.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00045.wav and I was correct :D
+Current performance overall: 70.48192771084338 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.65517241379311 %
+=============================================================
+Analyzing pop.00049-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00049.wav', 27] **
+                          [2, 'pop.00035.wav', 5]
+                          [3, 'classical.00044.wav', 5]
+                          [4, 'classical.00034.wav', 5]
+                          [5, 'classical.00048.wav', 4]
+                          [6, 'classical.00046.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00042.wav', 4]
+                          [9, 'classical.00030.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00049.wav and I was correct :D
+Current performance overall: 70.65868263473054 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.83050847457628 %
+=============================================================
+Analyzing pop.00049-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00049.wav', 12] **
+                          [2, 'classical.00090.wav', 5]
+                          [3, 'pop.00040.wav', 5]
+                          [4, 'pop.00035.wav', 5]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00045.wav', 4]
+                          [7, 'classical.00040.wav', 4]
+                          [8, 'classical.00039.wav', 4]
+                          [9, 'classical.00037.wav', 4]
+                          [10, 'pop.00090.wav', 4]
+I predicted that the query is: pop.00049.wav and I was correct :D
+Current performance overall: 70.83333333333334 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.0 %
+=============================================================
+Analyzing pop.00049-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00049.wav', 17] **
+                          [2, 'pop.00035.wav', 6]
+                          [3, 'classical.00088.wav', 5]
+                          [4, 'pop.00059.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00009.wav', 4]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00007.wav', 4]
+                          [9, 'classical.00022.wav', 4]
+                          [10, 'pop.00091.wav', 4]
+I predicted that the query is: pop.00049.wav and I was correct :D
+Current performance overall: 71.00591715976331 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.1639344262295 %
+=============================================================
+Analyzing pop.00050-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00050.wav', 41] **
+                          [2, 'pop.00096.wav', 4]
+                          [3, 'pop.00086.wav', 4]
+                          [4, 'classical.00008.wav', 4]
+                          [5, 'pop.00040.wav', 4]
+                          [6, 'pop.00018.wav', 4]
+                          [7, 'classical.00097.wav', 4]
+                          [8, 'classical.00096.wav', 4]
+                          [9, 'classical.00089.wav', 4]
+                          [10, 'classical.00001.wav', 4]
+I predicted that the query is: pop.00050.wav and I was correct :D
+Current performance overall: 71.17647058823529 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.32258064516128 %
+=============================================================
+Analyzing pop.00050-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00050.wav', 28] **
+                          [2, 'pop.00007.wav', 5]
+                          [3, 'pop.00082.wav', 4]
+                          [4, 'pop.00043.wav', 4]
+                          [5, 'pop.00037.wav', 4]
+                          [6, 'pop.00033.wav', 4]
+                          [7, 'pop.00021.wav', 4]
+                          [8, 'pop.00017.wav', 4]
+                          [9, 'classical.00096.wav', 4]
+                          [10, 'classical.00001.wav', 4]
+I predicted that the query is: pop.00050.wav and I was correct :D
+Current performance overall: 71.34502923976608 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.47619047619048 %
+=============================================================
+Analyzing pop.00050-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00050.wav', 37] **
+                          [2, 'classical.00096.wav', 5]
+                          [3, 'classical.00046.wav', 5]
+                          [4, 'classical.00029.wav', 5]
+                          [5, 'classical.00085.wav', 4]
+                          [6, 'classical.00060.wav', 4]
+                          [7, 'classical.00056.wav', 4]
+                          [8, 'classical.00054.wav', 4]
+                          [9, 'classical.00052.wav', 4]
+                          [10, 'pop.00061.wav', 4]
+I predicted that the query is: pop.00050.wav and I was correct :D
+Current performance overall: 71.51162790697676 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.625 %
+=============================================================
+Analyzing pop.00054-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00054.wav', 8] **
+                          [2, 'pop.00060.wav', 8]
+                          [3, 'pop.00098.wav', 5]
+                          [4, 'classical.00020.wav', 5]
+                          [5, 'classical.00042.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00022.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00054.wav and I was correct :D
+Current performance overall: 71.67630057803468 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.76923076923077 %
+=============================================================
+Analyzing pop.00054-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00060.wav', 6]
+                       ** [2, 'pop.00054.wav', 6] **
+                          [3, 'classical.00071.wav', 5]
+                          [4, 'pop.00092.wav', 5]
+                          [5, 'pop.00088.wav', 5]
+                          [6, 'pop.00085.wav', 5]
+                          [7, 'classical.00093.wav', 5]
+                          [8, 'classical.00009.wav', 4]
+                          [9, 'classical.00037.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00060.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 71.26436781609196 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.39393939393939 %
+=============================================================
+Analyzing pop.00054-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00060.wav', 10]
+                       ** [2, 'pop.00054.wav', 10] **
+                          [3, 'pop.00098.wav', 5]
+                          [4, 'pop.00093.wav', 5]
+                          [5, 'pop.00072.wav', 5]
+                          [6, 'classical.00024.wav', 5]
+                          [7, 'pop.00071.wav', 5]
+                          [8, 'pop.00067.wav', 5]
+                          [9, 'pop.00061.wav', 5]
+                          [10, 'classical.00003.wav', 5]
+I predicted that the query is: pop.00060.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 70.85714285714285 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.05970149253731 %
+=============================================================
+Analyzing pop.00055-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00055.wav', 11] **
+                          [2, 'classical.00090.wav', 5]
+                          [3, 'classical.00023.wav', 5]
+                          [4, 'pop.00073.wav', 5]
+                          [5, 'pop.00049.wav', 5]
+                          [6, 'pop.00047.wav', 5]
+                          [7, 'classical.00030.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00007.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00055.wav and I was correct :D
+Current performance overall: 71.02272727272727 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.23529411764706 %
+=============================================================
+Analyzing pop.00055-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00055.wav', 6] **
+                          [2, 'classical.00090.wav', 5]
+                          [3, 'pop.00071.wav', 5]
+                          [4, 'pop.00067.wav', 5]
+                          [5, 'classical.00058.wav', 4]
+                          [6, 'classical.00057.wav', 4]
+                          [7, 'classical.00049.wav', 4]
+                          [8, 'classical.00043.wav', 4]
+                          [9, 'classical.00038.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00055.wav and I was correct :D
+Current performance overall: 71.1864406779661 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.40579710144928 %
+=============================================================
+Analyzing pop.00055-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00055.wav', 11] **
+                          [2, 'pop.00024.wav', 5]
+                          [3, 'classical.00023.wav', 5]
+                          [4, 'classical.00003.wav', 5]
+                          [5, 'pop.00052.wav', 5]
+                          [6, 'pop.00040.wav', 5]
+                          [7, 'classical.00056.wav', 4]
+                          [8, 'classical.00047.wav', 4]
+                          [9, 'classical.00028.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00055.wav and I was correct :D
+Current performance overall: 71.34831460674157 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.57142857142857 %
+=============================================================
+Analyzing pop.00059-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00059.wav', 31] **
+                          [2, 'pop.00056.wav', 28]
+                          [3, 'classical.00065.wav', 5]
+                          [4, 'classical.00005.wav', 5]
+                          [5, 'pop.00021.wav', 5]
+                          [6, 'classical.00009.wav', 4]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00036.wav', 4]
+                          [9, 'classical.00023.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00059.wav and I was correct :D
+Current performance overall: 71.50837988826815 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.73239436619718 %
+=============================================================
+Analyzing pop.00059-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00059.wav', 54] **
+                          [2, 'pop.00056.wav', 53]
+                          [3, 'pop.00035.wav', 6]
+                          [4, 'classical.00046.wav', 5]
+                          [5, 'pop.00039.wav', 5]
+                          [6, 'pop.00038.wav', 5]
+                          [7, 'pop.00031.wav', 5]
+                          [8, 'pop.00029.wav', 5]
+                          [9, 'classical.00090.wav', 5]
+                          [10, 'pop.00094.wav', 5]
+I predicted that the query is: pop.00059.wav and I was correct :D
+Current performance overall: 71.66666666666667 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.88888888888889 %
+=============================================================
+Analyzing pop.00059-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00056.wav', 20]
+                       ** [2, 'pop.00059.wav', 19] **
+                          [3, 'classical.00046.wav', 5]
+                          [4, 'classical.00036.wav', 4]
+                          [5, 'classical.00035.wav', 4]
+                          [6, 'classical.00027.wav', 4]
+                          [7, 'classical.00024.wav', 4]
+                          [8, 'classical.00005.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00099.wav', 4]
+I predicted that the query is: pop.00056.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 71.27071823204419 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 87.67123287671232 %
+=============================================================
+Analyzing pop.00060-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00060.wav', 32] **
+                          [2, 'pop.00054.wav', 32]
+                          [3, 'classical.00045.wav', 5]
+                          [4, 'pop.00094.wav', 5]
+                          [5, 'pop.00017.wav', 5]
+                          [6, 'classical.00026.wav', 5]
+                          [7, 'classical.00050.wav', 5]
+                          [8, 'classical.00009.wav', 4]
+                          [9, 'classical.00036.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00060.wav and I was correct :D
+Current performance overall: 71.42857142857143 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 87.83783783783784 %
+=============================================================
+Analyzing pop.00060-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00060.wav', 13] **
+                          [2, 'pop.00054.wav', 13]
+                          [3, 'classical.00043.wav', 6]
+                          [4, 'classical.00088.wav', 5]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00044.wav', 4]
+                          [7, 'classical.00006.wav', 4]
+                          [8, 'classical.00005.wav', 4]
+                          [9, 'classical.00040.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: pop.00060.wav and I was correct :D
+Current performance overall: 71.58469945355192 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.0 %
+=============================================================
+Analyzing pop.00060-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00060.wav', 27] **
+                          [2, 'pop.00054.wav', 27]
+                          [3, 'classical.00062.wav', 5]
+                          [4, 'classical.00020.wav', 5]
+                          [5, 'classical.00036.wav', 4]
+                          [6, 'classical.00030.wav', 4]
+                          [7, 'classical.00024.wav', 4]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00005.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00060.wav and I was correct :D
+Current performance overall: 71.73913043478261 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.1578947368421 %
+=============================================================
+Analyzing pop.00064-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00064.wav', 37] **
+                          [2, 'classical.00012.wav', 6]
+                          [3, 'classical.00046.wav', 5]
+                          [4, 'pop.00019.wav', 5]
+                          [5, 'pop.00005.wav', 5]
+                          [6, 'classical.00093.wav', 5]
+                          [7, 'classical.00082.wav', 5]
+                          [8, 'classical.00056.wav', 5]
+                          [9, 'classical.00020.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: pop.00064.wav and I was correct :D
+Current performance overall: 71.89189189189189 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.31168831168831 %
+=============================================================
+Analyzing pop.00064-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00064.wav', 50] **
+                          [2, 'classical.00092.wav', 5]
+                          [3, 'pop.00095.wav', 5]
+                          [4, 'pop.00090.wav', 5]
+                          [5, 'classical.00029.wav', 4]
+                          [6, 'classical.00028.wav', 4]
+                          [7, 'classical.00007.wav', 4]
+                          [8, 'classical.00027.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'classical.00019.wav', 4]
+I predicted that the query is: pop.00064.wav and I was correct :D
+Current performance overall: 72.04301075268818 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.46153846153845 %
+=============================================================
+Analyzing pop.00064-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00064.wav', 28] **
+                          [2, 'classical.00020.wav', 6]
+                          [3, 'pop.00062.wav', 5]
+                          [4, 'pop.00043.wav', 5]
+                          [5, 'pop.00014.wav', 5]
+                          [6, 'classical.00069.wav', 5]
+                          [7, 'classical.00044.wav', 5]
+                          [8, 'classical.00027.wav', 5]
+                          [9, 'classical.00022.wav', 5]
+                          [10, 'pop.00096.wav', 5]
+I predicted that the query is: pop.00064.wav and I was correct :D
+Current performance overall: 72.19251336898395 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.60759493670885 %
+=============================================================
+Analyzing pop.00065-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00065.wav', 7] **
+                          [2, 'classical.00046.wav', 6]
+                          [3, 'pop.00077.wav', 5]
+                          [4, 'classical.00094.wav', 5]
+                          [5, 'classical.00003.wav', 5]
+                          [6, 'classical.00086.wav', 5]
+                          [7, 'classical.00056.wav', 5]
+                          [8, 'classical.00023.wav', 4]
+                          [9, 'classical.00020.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00065.wav and I was correct :D
+Current performance overall: 72.3404255319149 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.75 %
+=============================================================
+Analyzing pop.00065-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00065.wav', 11] **
+                          [2, 'classical.00026.wav', 5]
+                          [3, 'classical.00016.wav', 5]
+                          [4, 'pop.00073.wav', 5]
+                          [5, 'pop.00070.wav', 5]
+                          [6, 'classical.00082.wav', 5]
+                          [7, 'classical.00073.wav', 5]
+                          [8, 'classical.00058.wav', 5]
+                          [9, 'classical.00019.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00065.wav and I was correct :D
+Current performance overall: 72.4867724867725 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.88888888888889 %
+=============================================================
+Analyzing pop.00065-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00065.wav', 13] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00027.wav', 5]
+                          [4, 'pop.00054.wav', 5]
+                          [5, 'pop.00036.wav', 5]
+                          [6, 'classical.00090.wav', 5]
+                          [7, 'classical.00085.wav', 5]
+                          [8, 'classical.00015.wav', 5]
+                          [9, 'classical.00082.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: pop.00065.wav and I was correct :D
+Current performance overall: 72.63157894736842 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.02439024390245 %
+=============================================================
+Analyzing pop.00069-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00069.wav', 20] **
+                          [2, 'classical.00099.wav', 6]
+                          [3, 'classical.00054.wav', 6]
+                          [4, 'classical.00094.wav', 5]
+                          [5, 'classical.00085.wav', 5]
+                          [6, 'classical.00083.wav', 5]
+                          [7, 'classical.00073.wav', 5]
+                          [8, 'classical.00058.wav', 5]
+                          [9, 'classical.00056.wav', 5]
+                          [10, 'pop.00089.wav', 5]
+I predicted that the query is: pop.00069.wav and I was correct :D
+Current performance overall: 72.77486910994764 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.1566265060241 %
+=============================================================
+Analyzing pop.00069-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00069.wav', 18] **
+                          [2, 'pop.00047.wav', 5]
+                          [3, 'pop.00019.wav', 5]
+                          [4, 'pop.00000.wav', 5]
+                          [5, 'classical.00099.wav', 5]
+                          [6, 'classical.00093.wav', 5]
+                          [7, 'classical.00054.wav', 5]
+                          [8, 'classical.00046.wav', 5]
+                          [9, 'classical.00042.wav', 5]
+                          [10, 'pop.00085.wav', 5]
+I predicted that the query is: pop.00069.wav and I was correct :D
+Current performance overall: 72.91666666666666 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.28571428571429 %
+=============================================================
+Analyzing pop.00069-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00069.wav', 15] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'pop.00090.wav', 5]
+                          [4, 'pop.00047.wav', 5]
+                          [5, 'classical.00096.wav', 5]
+                          [6, 'classical.00073.wav', 5]
+                          [7, 'classical.00061.wav', 5]
+                          [8, 'classical.00059.wav', 5]
+                          [9, 'classical.00054.wav', 5]
+                          [10, 'classical.00049.wav', 5]
+I predicted that the query is: pop.00069.wav and I was correct :D
+Current performance overall: 73.05699481865285 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.41176470588236 %
+=============================================================
+Analyzing pop.00070-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00070.wav', 21] **
+                          [2, 'pop.00047.wav', 6]
+                          [3, 'pop.00085.wav', 5]
+                          [4, 'pop.00080.wav', 5]
+                          [5, 'classical.00085.wav', 5]
+                          [6, 'classical.00060.wav', 5]
+                          [7, 'classical.00004.wav', 5]
+                          [8, 'classical.00058.wav', 5]
+                          [9, 'classical.00056.wav', 5]
+                          [10, 'classical.00029.wav', 5]
+I predicted that the query is: pop.00070.wav and I was correct :D
+Current performance overall: 73.19587628865979 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.53488372093024 %
+=============================================================
+Analyzing pop.00070-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00070.wav', 27] **
+                          [2, 'pop.00038.wav', 5]
+                          [3, 'classical.00099.wav', 5]
+                          [4, 'classical.00071.wav', 5]
+                          [5, 'classical.00056.wav', 5]
+                          [6, 'classical.00051.wav', 5]
+                          [7, 'classical.00046.wav', 5]
+                          [8, 'classical.00028.wav', 5]
+                          [9, 'classical.00024.wav', 5]
+                          [10, 'pop.00093.wav', 5]
+I predicted that the query is: pop.00070.wav and I was correct :D
+Current performance overall: 73.33333333333333 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.65517241379311 %
+=============================================================
+Analyzing pop.00070-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00070.wav', 30] **
+                          [2, 'pop.00028.wav', 6]
+                          [3, 'classical.00056.wav', 6]
+                          [4, 'classical.00049.wav', 6]
+                          [5, 'pop.00007.wav', 5]
+                          [6, 'classical.00099.wav', 5]
+                          [7, 'classical.00095.wav', 5]
+                          [8, 'classical.00057.wav', 5]
+                          [9, 'classical.00054.wav', 5]
+                          [10, 'pop.00082.wav', 5]
+I predicted that the query is: pop.00070.wav and I was correct :D
+Current performance overall: 73.46938775510205 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.77272727272727 %
+=============================================================
+Analyzing pop.00074-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00074.wav', 9] **
+                          [2, 'pop.00093.wav', 6]
+                          [3, 'classical.00028.wav', 5]
+                          [4, 'pop.00086.wav', 5]
+                          [5, 'pop.00070.wav', 5]
+                          [6, 'pop.00044.wav', 5]
+                          [7, 'pop.00038.wav', 5]
+                          [8, 'pop.00017.wav', 5]
+                          [9, 'classical.00048.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00074.wav and I was correct :D
+Current performance overall: 73.60406091370558 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.8876404494382 %
+=============================================================
+Analyzing pop.00074-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00074.wav', 6] **
+                          [2, 'pop.00077.wav', 5]
+                          [3, 'classical.00009.wav', 4]
+                          [4, 'classical.00056.wav', 4]
+                          [5, 'classical.00031.wav', 4]
+                          [6, 'classical.00030.wav', 4]
+                          [7, 'classical.00028.wav', 4]
+                          [8, 'classical.00024.wav', 4]
+                          [9, 'classical.00003.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00074.wav and I was correct :D
+Current performance overall: 73.73737373737373 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 90.0 %
+=============================================================
+Analyzing pop.00074-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00085.wav', 5]
+                       ** [2, 'pop.00074.wav', 5] **
+                          [3, 'pop.00073.wav', 5]
+                          [4, 'pop.00038.wav', 5]
+                          [5, 'classical.00089.wav', 5]
+                          [6, 'classical.00049.wav', 4]
+                          [7, 'classical.00046.wav', 4]
+                          [8, 'classical.00045.wav', 4]
+                          [9, 'classical.00042.wav', 4]
+                          [10, 'pop.00097.wav', 4]
+I predicted that the query is: classical.00085.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 73.36683417085426 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.01098901098901 %
+=============================================================
+Analyzing pop.00075-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00075.wav', 7] **
+                          [2, 'pop.00008.wav', 5]
+                          [3, 'pop.00072.wav', 5]
+                          [4, 'pop.00062.wav', 5]
+                          [5, 'classical.00054.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00053.wav', 4]
+                          [8, 'classical.00048.wav', 4]
+                          [9, 'classical.00029.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00075.wav and I was correct :D
+Current performance overall: 73.5 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.13043478260869 %
+=============================================================
+Analyzing pop.00075-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00075.wav', 13] **
+                          [2, 'pop.00013.wav', 5]
+                          [3, 'pop.00093.wav', 5]
+                          [4, 'pop.00086.wav', 5]
+                          [5, 'pop.00026.wav', 5]
+                          [6, 'pop.00019.wav', 5]
+                          [7, 'classical.00029.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00028.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00075.wav and I was correct :D
+Current performance overall: 73.6318407960199 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.24731182795699 %
+=============================================================
+Analyzing pop.00075-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00075.wav', 8] **
+                          [2, 'pop.00019.wav', 6]
+                          [3, 'pop.00096.wav', 5]
+                          [4, 'pop.00086.wav', 5]
+                          [5, 'pop.00076.wav', 5]
+                          [6, 'pop.00069.wav', 5]
+                          [7, 'pop.00051.wav', 5]
+                          [8, 'classical.00090.wav', 5]
+                          [9, 'classical.00054.wav', 5]
+                          [10, 'classical.00046.wav', 5]
+I predicted that the query is: pop.00075.wav and I was correct :D
+Current performance overall: 73.76237623762376 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 89.36170212765957 %
+=============================================================
+Analyzing pop.00079-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'classical.00028.wav', 5]
+                          [2, 'pop.00068.wav', 5]
+                          [3, 'classical.00060.wav', 5]
+                          [4, 'classical.00022.wav', 4]
+                          [5, 'classical.00017.wav', 4]
+                          [6, 'classical.00014.wav', 4]
+                          [7, 'classical.00013.wav', 4]
+                          [8, 'classical.00011.wav', 4]
+                          [9, 'classical.00004.wav', 4]
+                          [10, 'pop.00096.wav', 4]
+I predicted that the query is: classical.00028.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 73.39901477832512 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 88.42105263157895 %
+=============================================================
+Analyzing pop.00079-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00069.wav', 6]
+                          [2, 'classical.00088.wav', 5]
+                          [3, 'classical.00004.wav', 5]
+                       ** [4, 'pop.00079.wav', 5] **
+                          [5, 'classical.00001.wav', 5]
+                          [6, 'classical.00009.wav', 4]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00022.wav', 4]
+                          [9, 'classical.00020.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00069.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 73.0392156862745 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 87.5 %
+=============================================================
+Analyzing pop.00079-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00082.wav', 6]
+                       ** [2, 'pop.00079.wav', 6] **
+                          [3, 'classical.00049.wav', 5]
+                          [4, 'classical.00008.wav', 5]
+                          [5, 'pop.00074.wav', 5]
+                          [6, 'pop.00058.wav', 5]
+                          [7, 'pop.00012.wav', 5]
+                          [8, 'classical.00028.wav', 4]
+                          [9, 'classical.00024.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00082.wav but I was incorrect :( 
+I didn't get it right, but it was in the top 10 ...
+Current performance overall: 72.6829268292683 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.5979381443299 %
+=============================================================
+Analyzing pop.00080-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00080.wav', 11] **
+                          [2, 'pop.00047.wav', 11]
+                          [3, 'pop.00017.wav', 5]
+                          [4, 'pop.00036.wav', 5]
+                          [5, 'classical.00048.wav', 4]
+                          [6, 'classical.00008.wav', 4]
+                          [7, 'classical.00029.wav', 4]
+                          [8, 'classical.00006.wav', 4]
+                          [9, 'classical.00005.wav', 4]
+                          [10, 'pop.00095.wav', 4]
+I predicted that the query is: pop.00080.wav and I was correct :D
+Current performance overall: 72.81553398058253 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.73469387755102 %
+=============================================================
+Analyzing pop.00080-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                          [1, 'pop.00047.wav', 5]
+                          [2, 'classical.00031.wav', 4]
+                          [3, 'classical.00008.wav', 4]
+                          [4, 'classical.00028.wav', 4]
+                          [5, 'classical.00006.wav', 4]
+                          [6, 'classical.00025.wav', 4]
+                          [7, 'classical.00024.wav', 4]
+                          [8, 'classical.00015.wav', 4]
+                          [9, 'classical.00012.wav', 4]
+                          [10, 'pop.00094.wav', 4]
+I predicted that the query is: pop.00047.wav but I was incorrect :( 
+Hit was not in top 10  :( 
+Current performance overall: 72.46376811594203 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 85.85858585858585 %
+=============================================================
+Analyzing pop.00080-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00080.wav', 11] **
+                          [2, 'pop.00047.wav', 11]
+                          [3, 'classical.00053.wav', 5]
+                          [4, 'pop.00090.wav', 5]
+                          [5, 'classical.00085.wav', 5]
+                          [6, 'classical.00032.wav', 4]
+                          [7, 'classical.00008.wav', 4]
+                          [8, 'classical.00029.wav', 4]
+                          [9, 'classical.00027.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00080.wav and I was correct :D
+Current performance overall: 72.59615384615384 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.0 %
+=============================================================
+Analyzing pop.00084-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00084.wav', 17] **
+                          [2, 'classical.00056.wav', 5]
+                          [3, 'pop.00092.wav', 5]
+                          [4, 'classical.00085.wav', 5]
+                          [5, 'classical.00068.wav', 5]
+                          [6, 'classical.00001.wav', 5]
+                          [7, 'classical.00023.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00021.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00084.wav and I was correct :D
+Current performance overall: 72.72727272727273 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.13861386138613 %
+=============================================================
+Analyzing pop.00084-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00084.wav', 13] **
+                          [2, 'classical.00009.wav', 4]
+                          [3, 'classical.00049.wav', 4]
+                          [4, 'classical.00047.wav', 4]
+                          [5, 'classical.00046.wav', 4]
+                          [6, 'classical.00044.wav', 4]
+                          [7, 'classical.00004.wav', 4]
+                          [8, 'classical.00003.wav', 4]
+                          [9, 'classical.00036.wav', 4]
+                          [10, 'pop.00093.wav', 4]
+I predicted that the query is: pop.00084.wav and I was correct :D
+Current performance overall: 72.85714285714285 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.27450980392157 %
+=============================================================
+Analyzing pop.00085-snippet-10-0.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00085.wav', 19] **
+                          [2, 'classical.00058.wav', 6]
+                          [3, 'classical.00096.wav', 5]
+                          [4, 'classical.00094.wav', 5]
+                          [5, 'classical.00090.wav', 5]
+                          [6, 'classical.00013.wav', 5]
+                          [7, 'classical.00083.wav', 5]
+                          [8, 'classical.00004.wav', 5]
+                          [9, 'classical.00056.wav', 5]
+                          [10, 'classical.00027.wav', 5]
+I predicted that the query is: pop.00085.wav and I was correct :D
+Current performance overall: 72.98578199052133 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.40776699029125 %
+=============================================================
+Analyzing pop.00085-snippet-10-10.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00085.wav', 19] **
+                          [2, 'classical.00053.wav', 5]
+                          [3, 'pop.00086.wav', 5]
+                          [4, 'pop.00077.wav', 5]
+                          [5, 'pop.00039.wav', 5]
+                          [6, 'classical.00088.wav', 5]
+                          [7, 'classical.00046.wav', 4]
+                          [8, 'classical.00008.wav', 4]
+                          [9, 'classical.00044.wav', 4]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00085.wav and I was correct :D
+Current performance overall: 73.11320754716981 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.53846153846155 %
+=============================================================
+Analyzing pop.00085-snippet-10-20.wav ...
+The top 10 matches are:   [Rank | Clip Name       | Similarity Measure]
+                       ** [1, 'pop.00085.wav', 20] **
+                          [2, 'classical.00056.wav', 6]
+                          [3, 'classical.00027.wav', 5]
+                          [4, 'classical.00020.wav', 5]
+                          [5, 'classical.00017.wav', 5]
+                          [6, 'classical.00098.wav', 5]
+                          [7, 'classical.00094.wav', 5]
+                          [8, 'classical.00014.wav', 5]
+                          [9, 'classical.00070.wav', 5]
+                          [10, 'pop.00098.wav', 4]
+I predicted that the query is: pop.00085.wav and I was correct :D
+Current performance overall: 73.23943661971832 % 
+Classical % Correct: 60.18518518518518 %
+Pop % Correct: 86.66666666666667 %
+It has taken  0.00023764166666702854 minutes to process the whole database
+
+Process finished with exit code 0
+
+spectrogram = np.abs(librosa.feature.melspectrogram(input_audio, n_fft=2048, window='hann', win_length=2048, hop_length=128))
